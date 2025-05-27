@@ -1,0 +1,1001 @@
+Id,Area,Bedrooms,Bathrooms,Floors,YearBuilt,Location,Condition,Garage,Price,State,Metro City
+973,1443,2,4,3,1934,Downtown,Good,No,222374.28306022467,Maharashtra,Mumbai
+1098,2921,2,2,3,1939,Urban,Good,No,327914.7139765763,Karnataka,Bengaluru
+1931,4216,5,3,1,2005,Downtown,Excellent,Yes,522233.77076201385,Tamil Nadu,Chennai
+1935,1400,3,3,1,2019,Urban,Good,No,264460.59712816053,West Bengal,Kolkata
+66,1775,5,2,3,1946,Urban,Excellent,No,309316.9325055333,Telangana,Hyderabad
+1711,4030,4,3,1,1921,Downtown,Poor,No,464717.2608610164,Gujarat,Ahmedabad
+716,2897,1,4,3,1989,Downtown,Good,No,335344.2563101478,Rajasthan,Jaipur
+1550,3391,2,1,1,1970,Rural,Excellent,Yes,383628.6945830582,Uttar Pradesh,Lucknow
+669,4623,3,1,1,1920,Urban,Fair,Yes,482450.51228130097,Madhya Pradesh,Bhopal
+1960,3691,4,1,2,2005,Downtown,Poor,Yes,453131.2008717193,Punjab,Chandigarh
+101,706,1,3,1,2000,Urban,Fair,Yes,119211.64614375075,Uttarakhand,Dehradun
+670,2625,3,3,2,1916,Downtown,Good,No,322685.4049285949,Maharashtra,Mumbai
+1104,546,2,4,1,1972,Rural,Good,No,145519.24543132068,Karnataka,Bengaluru
+797,2363,5,2,1,1925,Urban,Poor,No,322774.395106844,Tamil Nadu,Chennai
+822,2704,3,2,3,1918,Rural,Fair,Yes,303821.6433497394,West Bengal,Kolkata
+1781,3064,4,1,3,2001,Rural,Poor,Yes,380874.24941518053,Telangana,Hyderabad
+1764,4508,4,2,3,2020,Downtown,Fair,No,487383.37759331154,Gujarat,Ahmedabad
+1263,2204,3,1,1,2002,Downtown,Excellent,No,304604.9466519055,Rajasthan,Jaipur
+1306,1417,3,1,3,1976,Downtown,Excellent,No,217199.51848957577,Uttar Pradesh,Lucknow
+64,3842,2,2,1,1943,Rural,Fair,Yes,376113.9259732942,Madhya Pradesh,Bhopal
+810,2651,4,4,1,1991,Urban,Good,No,388392.9753784311,Punjab,Chandigarh
+1755,3137,2,1,3,1969,Rural,Good,Yes,343444.4739902693,Uttarakhand,Dehradun
+361,2765,3,4,1,1987,Rural,Excellent,Yes,344550.56409375847,Maharashtra,Mumbai
+1521,3552,4,3,2,1917,Downtown,Good,Yes,402665.0362757309,Karnataka,Bengaluru
+578,4136,2,2,1,1950,Rural,Poor,No,416992.34550949634,Tamil Nadu,Chennai
+1091,4163,5,1,2,1947,Downtown,Poor,No,507258.4517941973,West Bengal,Kolkata
+1204,553,1,4,2,1956,Urban,Fair,Yes,93220.12845155394,Telangana,Hyderabad
+1675,4899,3,4,2,1920,Downtown,Fair,Yes,521433.96036691347,Gujarat,Ahmedabad
+337,1512,4,4,3,1922,Urban,Fair,No,255947.2262016239,Rajasthan,Jaipur
+418,3965,3,4,3,2012,Rural,Excellent,No,433366.1250041345,Uttar Pradesh,Lucknow
+307,4646,4,2,1,1938,Urban,Excellent,No,506645.86775541207,Madhya Pradesh,Bhopal
+1576,1543,3,3,3,1992,Rural,Good,Yes,282485.56369017874,Punjab,Chandigarh
+236,1454,5,3,2,1942,Downtown,Poor,Yes,288050.0555052413,Uttarakhand,Dehradun
+375,3587,3,4,2,1921,Rural,Good,Yes,387805.781420882,Maharashtra,Mumbai
+627,4638,1,2,2,1943,Downtown,Poor,No,459490.89824206376,Karnataka,Bengaluru
+1909,4065,2,3,3,1927,Downtown,Excellent,No,397783.12700057955,Tamil Nadu,Chennai
+528,4137,4,1,2,1968,Urban,Poor,No,482137.2719000951,West Bengal,Kolkata
+1302,777,3,4,3,2011,Downtown,Poor,No,144966.59752240448,Telangana,Hyderabad
+834,3728,5,1,3,2007,Urban,Poor,No,443676.2790220314,Gujarat,Ahmedabad
+1171,1665,1,3,3,1990,Rural,Excellent,Yes,209137.22471738246,Rajasthan,Jaipur
+1177,1204,1,3,1,2007,Urban,Excellent,Yes,183089.3315999082,Uttar Pradesh,Lucknow
+594,2484,5,1,3,1976,Rural,Good,No,374147.3656237994,Madhya Pradesh,Bhopal
+1862,3638,1,2,2,1984,Rural,Good,Yes,360727.0343522352,Punjab,Chandigarh
+500,1394,1,1,2,1926,Urban,Good,No,177497.9260882142,Uttarakhand,Dehradun
+1610,1698,2,2,3,1960,Downtown,Poor,Yes,203269.56019265146,Maharashtra,Mumbai
+1438,1052,3,2,1,1977,Downtown,Excellent,No,191763.11583210583,Karnataka,Bengaluru
+1187,1306,4,3,1,1932,Rural,Poor,No,242267.22458080424,Tamil Nadu,Chennai
+1267,4951,2,2,3,1989,Rural,Fair,No,514222.44452437834,West Bengal,Kolkata
+1788,566,4,1,1,1945,Urban,Fair,Yes,199152.36579136923,Telangana,Hyderabad
+653,2253,2,4,1,1989,Urban,Poor,No,241979.19689274533,Gujarat,Ahmedabad
+1816,2431,1,4,2,1901,Rural,Excellent,No,272961.6793878959,Rajasthan,Jaipur
+511,1428,1,1,1,1939,Downtown,Good,Yes,178538.35439167367,Uttar Pradesh,Lucknow
+1993,2450,1,3,3,2006,Urban,Good,Yes,254461.55999388083,Madhya Pradesh,Bhopal
+741,4708,3,1,2,1919,Urban,Good,No,510873.52577681735,Punjab,Chandigarh
+812,3610,4,1,2,2006,Downtown,Good,No,456419.990449919,Uttarakhand,Dehradun
+969,4483,4,4,3,1933,Urban,Excellent,No,524265.602382324,Maharashtra,Mumbai
+161,4996,1,1,1,2005,Downtown,Fair,No,454895.64953554724,Karnataka,Bengaluru
+94,3190,3,2,3,1950,Downtown,Excellent,No,371015.7524829757,Tamil Nadu,Chennai
+1217,4569,3,1,1,1948,Downtown,Good,Yes,494145.2686280713,West Bengal,Kolkata
+334,3338,2,2,1,1927,Rural,Fair,Yes,383550.9025424472,Telangana,Hyderabad
+326,2193,4,4,2,2016,Rural,Fair,Yes,312856.5152430942,Gujarat,Ahmedabad
+953,2323,5,2,3,1974,Urban,Poor,Yes,354126.82046672364,Rajasthan,Jaipur
+1525,2146,3,2,2,1938,Downtown,Excellent,Yes,271553.30051987944,Uttar Pradesh,Lucknow
+663,1776,1,4,3,2016,Rural,Fair,No,190155.86751838657,Madhya Pradesh,Bhopal
+1536,2613,1,2,3,1935,Downtown,Good,No,297290.516447884,Punjab,Chandigarh
+1384,616,1,1,2,1911,Urban,Excellent,No,148404.80057141645,Uttarakhand,Dehradun
+1083,3615,5,2,2,1982,Downtown,Poor,No,459759.79756839335,Maharashtra,Mumbai
+1436,2770,4,3,1,1919,Rural,Fair,Yes,388670.6579578405,Karnataka,Bengaluru
+1658,1940,1,2,3,2009,Urban,Fair,No,234432.72050095268,Tamil Nadu,Chennai
+1169,2550,3,2,2,1953,Downtown,Poor,No,313097.60490789753,West Bengal,Kolkata
+966,1811,1,3,3,1970,Rural,Poor,No,224107.91211016828,Telangana,Hyderabad
+610,2517,3,1,1,1949,Rural,Excellent,No,354120.73132931936,Gujarat,Ahmedabad
+1468,4304,5,2,1,1983,Downtown,Good,Yes,515603.47921780095,Rajasthan,Jaipur
+91,3231,3,3,2,2002,Downtown,Good,No,411772.8731162801,Uttar Pradesh,Lucknow
+702,2475,2,4,1,1998,Rural,Excellent,Yes,242605.0979182051,Madhya Pradesh,Bhopal
+258,3920,4,3,3,1975,Downtown,Good,No,477038.0500875045,Punjab,Chandigarh
+1197,1324,2,2,1,1905,Downtown,Good,No,204660.94136476342,Uttarakhand,Dehradun
+930,1222,3,3,2,1993,Rural,Good,Yes,213779.85299068264,Maharashtra,Mumbai
+1487,1456,5,4,3,1999,Downtown,Fair,No,290315.21553071006,Karnataka,Bengaluru
+1405,4262,4,3,1,1915,Downtown,Fair,No,448208.62170798215,Tamil Nadu,Chennai
+684,1796,3,4,2,1976,Rural,Fair,Yes,261286.56224324976,West Bengal,Kolkata
+1053,1750,1,4,3,1981,Downtown,Fair,Yes,219142.25143023493,Telangana,Hyderabad
+658,3378,1,3,3,1998,Rural,Excellent,No,371797.88089483033,Gujarat,Ahmedabad
+1059,1250,4,3,3,2015,Urban,Fair,Yes,236634.59563452704,Rajasthan,Jaipur
+847,4606,4,1,2,1974,Downtown,Good,No,499310.12794213626,Uttar Pradesh,Lucknow
+427,4632,3,3,3,1966,Urban,Fair,No,482524.8591283093,Madhya Pradesh,Bhopal
+1643,1350,4,4,1,1996,Urban,Good,No,273308.0423540415,Punjab,Chandigarh
+1047,648,4,3,2,2005,Downtown,Poor,No,205415.0221931937,Uttarakhand,Dehradun
+1247,3611,4,2,3,1979,Urban,Fair,No,425284.79592465924,Maharashtra,Mumbai
+869,626,2,2,1,1966,Downtown,Excellent,No,157345.34866226712,Karnataka,Bengaluru
+566,4658,4,1,2,2013,Urban,Good,No,521581.5509869608,Tamil Nadu,Chennai
+1912,1108,3,4,1,1902,Downtown,Poor,No,230012.89981065778,West Bengal,Kolkata
+1480,1254,3,2,2,1944,Downtown,Excellent,No,208278.93812245296,Telangana,Hyderabad
+488,3423,3,2,3,1952,Downtown,Fair,No,389286.7570680446,Gujarat,Ahmedabad
+435,1228,1,3,2,1991,Rural,Fair,No,162397.83693735686,Rajasthan,Jaipur
+738,2310,3,2,1,1905,Rural,Poor,No,277529.7010373576,Uttar Pradesh,Lucknow
+37,1100,2,1,3,1957,Rural,Good,No,190922.40554129152,Madhya Pradesh,Bhopal
+915,1466,1,3,3,1985,Downtown,Good,No,194501.1054435978,Punjab,Chandigarh
+1639,2137,2,1,3,1917,Downtown,Good,Yes,268062.26913284924,Uttarakhand,Dehradun
+1157,771,2,3,1,1945,Rural,Fair,No,153988.25733249707,Maharashtra,Mumbai
+1985,4006,2,3,3,1960,Downtown,Poor,No,389172.58515899174,Karnataka,Bengaluru
+85,3599,1,3,1,2009,Urban,Good,No,351507.09354469285,Tamil Nadu,Chennai
+1917,1319,4,2,1,1913,Urban,Poor,No,245665.70966946462,West Bengal,Kolkata
+981,1414,4,2,3,1981,Downtown,Excellent,Yes,244074.45461556764,Telangana,Hyderabad
+1565,1890,4,4,2,2005,Downtown,Fair,No,294974.2857666798,Gujarat,Ahmedabad
+1598,4903,1,3,2,2023,Rural,Excellent,No,472321.0171362908,Rajasthan,Jaipur
+1343,4011,5,3,3,1941,Urban,Excellent,Yes,530603.7180242107,Uttar Pradesh,Lucknow
+996,3261,2,4,3,1997,Downtown,Excellent,No,361371.5562566368,Madhya Pradesh,Bhopal
+194,1123,3,2,1,1975,Downtown,Poor,Yes,216991.00781445528,Punjab,Chandigarh
+962,3800,5,2,3,2006,Urban,Poor,No,474511.08168467664,Uttarakhand,Dehradun
+1467,2427,4,2,3,1937,Urban,Fair,Yes,302784.57569401915,Maharashtra,Mumbai
+1875,3446,5,4,2,1996,Rural,Fair,Yes,447149.7224910157,Karnataka,Bengaluru
+541,4219,5,3,1,1991,Urban,Poor,No,510724.60419882054,Tamil Nadu,Chennai
+162,1266,1,1,2,1981,Rural,Poor,Yes,222544.84224970572,West Bengal,Kolkata
+1062,4960,2,2,1,1924,Urban,Fair,Yes,489952.78070437757,Telangana,Hyderabad
+1739,645,2,3,2,1916,Downtown,Excellent,Yes,154630.94684667225,Gujarat,Ahmedabad
+554,755,3,1,1,2000,Urban,Excellent,Yes,181705.76460589512,Rajasthan,Jaipur
+1747,1161,3,2,1,1974,Downtown,Good,Yes,191506.43924760935,Uttar Pradesh,Lucknow
+976,2698,5,1,1,1941,Downtown,Fair,No,410696.4562903004,Madhya Pradesh,Bhopal
+1389,3268,5,1,1,1978,Urban,Excellent,Yes,448478.6606537355,Punjab,Chandigarh
+1769,1625,1,1,3,1905,Downtown,Excellent,No,217820.63894086092,Uttarakhand,Dehradun
+1961,892,2,3,1,1942,Urban,Fair,No,150172.25090410523,Maharashtra,Mumbai
+55,1521,5,2,1,1981,Downtown,Fair,Yes,321735.886218722,Karnataka,Bengaluru
+77,3068,3,2,3,1972,Rural,Excellent,No,339402.9787441544,Tamil Nadu,Chennai
+245,1459,3,2,1,1966,Downtown,Poor,Yes,250457.1418760054,West Bengal,Kolkata
+1097,2250,5,3,1,2022,Downtown,Good,No,395809.1125161996,Telangana,Hyderabad
+29,1767,3,3,3,2011,Downtown,Poor,Yes,243549.27349738622,Gujarat,Ahmedabad
+444,1217,5,4,2,1944,Downtown,Poor,Yes,258034.04540794456,Rajasthan,Jaipur
+1797,4374,1,2,2,1938,Downtown,Excellent,Yes,423913.0273017528,Uttar Pradesh,Lucknow
+1259,4811,5,4,2,1911,Rural,Poor,No,546810.486917676,Madhya Pradesh,Bhopal
+1018,1304,1,1,2,2005,Urban,Good,Yes,145306.73137867736,Punjab,Chandigarh
+150,2660,3,4,2,1979,Downtown,Excellent,Yes,336171.25949612056,Uttarakhand,Dehradun
+411,2016,3,1,1,2005,Downtown,Poor,No,262033.9257254779,Maharashtra,Mumbai
+1934,3208,5,2,2,1929,Urban,Poor,No,438111.8486127036,Karnataka,Bengaluru
+1050,1636,1,3,1,1908,Urban,Poor,Yes,184491.51531532395,Tamil Nadu,Chennai
+587,2074,1,3,1,1934,Rural,Fair,No,268918.6881003508,West Bengal,Kolkata
+1807,1516,1,4,3,1957,Urban,Fair,No,177614.93415327527,Telangana,Hyderabad
+342,1059,3,1,3,2016,Downtown,Poor,No,200278.7696758865,Gujarat,Ahmedabad
+104,3290,4,2,3,1903,Rural,Good,Yes,426470.3443473934,Rajasthan,Jaipur
+878,4297,5,1,2,1920,Urban,Poor,Yes,491142.7136713209,Uttar Pradesh,Lucknow
+1850,4937,1,1,3,1970,Urban,Fair,Yes,471509.1986920826,Madhya Pradesh,Bhopal
+650,3617,4,1,1,1917,Rural,Fair,Yes,462502.85508564854,Punjab,Chandigarh
+1792,841,2,2,2,1937,Downtown,Good,Yes,132130.33530877545,Uttarakhand,Dehradun
+20,3058,5,2,2,2016,Downtown,Excellent,No,420332.6771706461,Maharashtra,Mumbai
+891,4002,5,1,2,1922,Rural,Poor,Yes,497357.65588496847,Karnataka,Bengaluru
+833,3353,4,2,3,1925,Rural,Poor,No,430876.4574355462,Tamil Nadu,Chennai
+1328,1015,4,3,1,1966,Downtown,Fair,No,203460.98578243837,West Bengal,Kolkata
+1199,1436,1,4,2,2014,Downtown,Excellent,Yes,160470.86773831447,Telangana,Hyderabad
+1463,2669,5,2,2,1988,Rural,Fair,Yes,395958.83131233795,Gujarat,Ahmedabad
+1319,1406,2,4,2,1942,Downtown,Poor,Yes,215419.69346466372,Rajasthan,Jaipur
+714,3921,4,3,3,1990,Rural,Good,No,465689.85700691753,Uttar Pradesh,Lucknow
+1660,1235,2,3,1,1935,Rural,Fair,No,202728.96418993952,Madhya Pradesh,Bhopal
+1153,4624,5,4,1,1954,Downtown,Good,No,528319.5055684302,Punjab,Chandigarh
+721,3090,4,3,3,1906,Downtown,Fair,No,398845.0739432201,Uttarakhand,Dehradun
+970,664,4,3,2,1910,Downtown,Good,No,205981.44946597362,Maharashtra,Mumbai
+1278,4498,3,2,3,1923,Downtown,Fair,No,467552.97163947264,Karnataka,Bengaluru
+1126,1114,5,3,1,1900,Downtown,Good,No,298435.4902228951,Tamil Nadu,Chennai
+455,1562,2,4,1,1928,Rural,Fair,Yes,231436.65841823575,West Bengal,Kolkata
+1076,4703,1,3,1,1984,Urban,Good,Yes,424413.93005594704,Telangana,Hyderabad
+1485,658,4,1,1,1958,Downtown,Good,Yes,212771.0721726766,Gujarat,Ahmedabad
+1382,1020,3,1,1,1941,Downtown,Fair,Yes,184106.36659545358,Rajasthan,Jaipur
+484,2327,1,4,1,1977,Downtown,Excellent,No,273901.69207484904,Uttar Pradesh,Lucknow
+1872,594,3,1,2,1981,Downtown,Good,Yes,192691.9115801481,Madhya Pradesh,Bhopal
+1505,4781,4,1,1,1953,Rural,Excellent,No,513066.35363296577,Punjab,Chandigarh
+336,2431,3,3,2,2006,Urban,Excellent,No,335747.5225848864,Uttarakhand,Dehradun
+1394,4933,1,2,1,1942,Downtown,Poor,Yes,474895.61853872996,Maharashtra,Mumbai
+1677,3522,1,3,1,2017,Rural,Good,No,370201.2031998898,Karnataka,Bengaluru
+848,3825,5,3,3,1927,Downtown,Poor,Yes,515935.85965307895,Tamil Nadu,Chennai
+53,4443,5,1,1,1951,Rural,Excellent,No,522532.23767994257,West Bengal,Kolkata
+581,2548,4,3,2,1918,Urban,Good,No,335765.2767128502,Telangana,Hyderabad
+489,2714,3,4,1,1966,Urban,Good,Yes,321329.71140748955,Gujarat,Ahmedabad
+1681,1443,2,3,3,1925,Rural,Good,No,196123.79430069122,Rajasthan,Jaipur
+1953,1959,5,3,1,1944,Urban,Good,Yes,327177.9658117179,Uttar Pradesh,Lucknow
+133,4248,4,4,2,2013,Rural,Excellent,No,493663.0394963329,Madhya Pradesh,Bhopal
+1531,3716,4,3,1,1970,Rural,Fair,Yes,449813.81598660036,Punjab,Chandigarh
+140,4263,3,1,1,1928,Urban,Excellent,No,479583.6649807205,Uttarakhand,Dehradun
+1458,2634,5,4,2,1922,Rural,Fair,No,382980.03783755813,Maharashtra,Mumbai
+1421,2741,5,1,1,2022,Urban,Excellent,No,420350.6815431463,Karnataka,Bengaluru
+281,2186,2,1,1,1907,Rural,Excellent,Yes,266586.86333524087,Tamil Nadu,Chennai
+801,2690,2,1,2,1963,Urban,Fair,Yes,366603.38333179237,West Bengal,Kolkata
+1381,2263,4,4,2,1938,Urban,Poor,No,340553.34695530013,Telangana,Hyderabad
+1992,4397,4,1,2,1981,Rural,Poor,Yes,481616.84887167433,Gujarat,Ahmedabad
+1846,761,1,1,3,1983,Downtown,Poor,No,111462.15003877775,Rajasthan,Jaipur
+960,827,5,2,1,1975,Rural,Poor,No,247809.4483048637,Uttar Pradesh,Lucknow
+168,4082,3,4,2,1956,Downtown,Fair,Yes,444090.744293483,Madhya Pradesh,Bhopal
+1266,2216,4,3,1,2011,Downtown,Good,No,338560.00988184183,Punjab,Chandigarh
+1240,1413,5,2,1,1951,Rural,Good,No,294504.7524914709,Uttarakhand,Dehradun
+937,785,3,3,3,2009,Downtown,Good,No,183343.42174686256,Maharashtra,Mumbai
+673,2146,2,4,3,2006,Urban,Excellent,Yes,251744.1256386319,Karnataka,Bengaluru
+421,3286,2,4,1,1981,Rural,Excellent,Yes,329583.0555062827,Tamil Nadu,Chennai
+1254,3611,3,2,1,1957,Rural,Poor,No,401949.7009586596,West Bengal,Kolkata
+1629,1074,4,4,3,1960,Urban,Poor,Yes,250047.97588646944,Telangana,Hyderabad
+515,2352,1,1,2,1975,Urban,Fair,No,264441.87488260405,Gujarat,Ahmedabad
+397,1253,2,3,3,2022,Rural,Fair,No,172325.22442576024,Rajasthan,Jaipur
+40,741,4,1,3,1968,Downtown,Excellent,No,209743.61851702363,Uttar Pradesh,Lucknow
+1160,1762,4,4,2,1947,Downtown,Fair,Yes,295666.3475945767,Madhya Pradesh,Bhopal
+1774,572,3,3,1,1924,Downtown,Excellent,No,150082.85127597733,Punjab,Chandigarh
+1493,1455,5,3,1,2001,Downtown,Poor,No,291474.50211891055,Uttarakhand,Dehradun
+593,4863,3,2,2,2002,Rural,Fair,No,512204.17436892,Maharashtra,Mumbai
+612,4844,1,3,3,2023,Downtown,Poor,No,436660.59404338757,Karnataka,Bengaluru
+1724,3438,5,3,1,1966,Urban,Excellent,No,454195.7472069657,Tamil Nadu,Chennai
+586,3919,2,3,2,2014,Downtown,Poor,Yes,421735.69052736467,West Bengal,Kolkata
+827,2836,2,4,1,2000,Downtown,Fair,No,345541.02486350556,Telangana,Hyderabad
+709,3209,4,3,1,1973,Urban,Good,No,424796.04104069807,Gujarat,Ahmedabad
+1723,2208,1,3,2,1923,Rural,Excellent,Yes,221086.6126408582,Rajasthan,Jaipur
+1983,4682,3,3,3,1961,Urban,Excellent,No,477803.49920169753,Uttar Pradesh,Lucknow
+231,2027,3,3,1,1957,Urban,Good,Yes,294460.7053441732,Madhya Pradesh,Bhopal
+990,2055,1,1,2,1903,Rural,Fair,No,246675.71901824418,Punjab,Chandigarh
+374,1848,4,1,3,1977,Downtown,Poor,Yes,305140.95372612093,Uttarakhand,Dehradun
+1937,2509,1,4,1,1970,Rural,Excellent,Yes,349774.6298130944,Maharashtra,Mumbai
+567,4425,4,4,2,1924,Rural,Poor,Yes,512417.8102138633,Karnataka,Bengaluru
+476,2356,3,2,2,1937,Rural,Fair,No,333191.312803612,Tamil Nadu,Chennai
+798,1818,3,1,1,1908,Rural,Poor,No,286520.035269864,West Bengal,Kolkata
+378,1395,3,3,3,1925,Rural,Fair,No,246627.82502611596,Telangana,Hyderabad
+1272,1325,2,1,2,2008,Rural,Poor,No,196694.6151071931,Gujarat,Ahmedabad
+1601,1391,3,4,3,2001,Downtown,Poor,Yes,248459.38440986534,Rajasthan,Jaipur
+1916,1903,4,1,3,2005,Rural,Fair,No,283783.4957092486,Uttar Pradesh,Lucknow
+268,3475,1,4,3,1999,Rural,Fair,Yes,345263.6278651998,Madhya Pradesh,Bhopal
+1944,3542,2,1,2,1948,Rural,Fair,Yes,370652.72904341796,Punjab,Chandigarh
+506,1004,4,2,1,1999,Rural,Good,No,228957.48278772645,Uttarakhand,Dehradun
+1348,2182,4,4,2,2011,Downtown,Good,No,367853.17133347015,Maharashtra,Mumbai
+83,4061,2,1,1,2015,Downtown,Excellent,Yes,384534.69614816504,Karnataka,Bengaluru
+1156,744,2,4,1,1997,Urban,Good,Yes,170245.20380749027,Tamil Nadu,Chennai
+346,1970,4,3,3,1976,Urban,Fair,Yes,272345.682576207,West Bengal,Kolkata
+1662,3838,4,4,1,1925,Rural,Good,Yes,444601.36268421134,Telangana,Hyderabad
+1244,3520,2,1,3,1986,Downtown,Excellent,No,400379.0119393473,Gujarat,Ahmedabad
+1939,2885,5,3,2,1990,Urban,Poor,No,404085.60038190923,Rajasthan,Jaipur
+1402,3996,3,4,3,1961,Downtown,Fair,Yes,420125.1044414139,Uttar Pradesh,Lucknow
+782,3465,1,3,1,1957,Rural,Excellent,No,334893.92581480066,Madhya Pradesh,Bhopal
+882,3917,5,2,2,1982,Rural,Poor,No,498951.9549786935,Punjab,Chandigarh
+1396,4066,5,1,3,1934,Urban,Poor,Yes,482672.6673656573,Uttarakhand,Dehradun
+274,2316,1,4,3,1952,Downtown,Excellent,Yes,261609.1717916395,Maharashtra,Mumbai
+1455,1394,2,4,3,2012,Urban,Good,No,209431.43679807626,Karnataka,Bengaluru
+1383,1516,2,4,1,1947,Rural,Fair,Yes,205247.99304788365,Tamil Nadu,Chennai
+363,2135,3,1,1,1926,Rural,Good,Yes,335678.8817865065,West Bengal,Kolkata
+762,3332,3,1,1,2008,Rural,Fair,No,401238.3804463602,Telangana,Hyderabad
+305,2482,3,4,2,1941,Downtown,Good,Yes,280057.1482668478,Gujarat,Ahmedabad
+1988,3588,4,1,3,1929,Urban,Poor,No,437769.0862953886,Rajasthan,Jaipur
+38,2863,1,2,3,1982,Urban,Excellent,Yes,287804.2707046322,Uttar Pradesh,Lucknow
+72,879,5,4,1,1916,Rural,Excellent,Yes,259368.66669592448,Madhya Pradesh,Bhopal
+1726,1743,5,2,2,2014,Downtown,Good,No,295589.58523134596,Punjab,Chandigarh
+1235,1454,3,1,1,1929,Rural,Good,Yes,236025.27117066202,Uttarakhand,Dehradun
+1665,1461,5,4,2,1985,Downtown,Excellent,No,298979.7455796091,Maharashtra,Mumbai
+835,4219,1,3,2,1901,Downtown,Fair,No,426835.1038834024,Karnataka,Bengaluru
+562,4969,5,3,2,1919,Downtown,Good,Yes,545514.0718588845,Tamil Nadu,Chennai
+731,617,4,4,3,1949,Rural,Good,No,189669.97528318103,West Bengal,Kolkata
+1409,3617,1,4,3,1989,Downtown,Fair,No,351861.0937767809,Telangana,Hyderabad
+1712,1786,2,2,1,1945,Urban,Fair,No,226813.41534852577,Gujarat,Ahmedabad
+1777,3546,1,2,3,1971,Downtown,Good,Yes,390989.08480562194,Rajasthan,Jaipur
+1787,2085,5,4,1,1959,Downtown,Poor,No,346899.6342192191,Uttar Pradesh,Lucknow
+428,4351,4,2,1,1910,Rural,Excellent,No,469862.3209132991,Madhya Pradesh,Bhopal
+1408,3436,4,2,2,1995,Downtown,Fair,No,440237.23894109554,Punjab,Chandigarh
+854,2849,1,1,3,1910,Rural,Fair,Yes,342363.12394025264,Uttarakhand,Dehradun
+579,3224,1,4,2,1904,Urban,Fair,Yes,350569.30521102296,Maharashtra,Mumbai
+1542,3874,1,3,3,1924,Rural,Excellent,Yes,351532.6006809197,Karnataka,Bengaluru
+130,1782,5,3,3,1961,Downtown,Poor,Yes,304875.318542675,Tamil Nadu,Chennai
+1805,2834,4,4,1,1917,Downtown,Fair,No,399058.22298373247,West Bengal,Kolkata
+381,2187,5,1,2,1998,Downtown,Fair,No,332806.6106876244,Telangana,Hyderabad
+859,3505,4,2,1,1913,Rural,Good,Yes,436276.3885629246,Gujarat,Ahmedabad
+580,4678,5,1,1,1912,Downtown,Good,Yes,561732.6810685868,Rajasthan,Jaipur
+1388,4288,5,4,3,1917,Rural,Excellent,No,496501.39056843834,Uttar Pradesh,Lucknow
+1012,2551,4,1,1,1991,Rural,Good,Yes,349889.492878764,Madhya Pradesh,Bhopal
+1243,2211,3,2,2,2006,Downtown,Excellent,Yes,234054.65319861856,Punjab,Chandigarh
+831,2365,5,4,3,2013,Urban,Good,No,340712.2471733142,Uttarakhand,Dehradun
+529,3830,3,2,3,1998,Downtown,Excellent,No,423348.6369721368,Maharashtra,Mumbai
+807,4533,5,1,3,1982,Downtown,Fair,Yes,509684.336360703,Karnataka,Bengaluru
+1323,3006,1,4,3,1946,Downtown,Poor,No,345128.2260786327,Tamil Nadu,Chennai
+1570,1456,4,4,2,1996,Urban,Fair,No,234877.17244078734,West Bengal,Kolkata
+1804,2368,3,3,3,1912,Downtown,Good,Yes,302639.11026606034,Telangana,Hyderabad
+333,616,1,4,2,1912,Rural,Fair,No,123894.81154572182,Gujarat,Ahmedabad
+816,1702,5,2,2,1948,Rural,Good,No,336985.46578132233,Rajasthan,Jaipur
+1318,528,3,4,3,1927,Rural,Excellent,No,135522.7569764112,Uttar Pradesh,Lucknow
+1927,3529,2,3,1,2014,Downtown,Poor,Yes,402583.2750430992,Madhya Pradesh,Bhopal
+379,4046,1,1,2,1938,Urban,Excellent,Yes,395884.66122039175,Punjab,Chandigarh
+1000,3268,1,2,2,1962,Rural,Poor,Yes,313809.826979041,Uttarakhand,Dehradun
+290,3306,3,2,1,1918,Downtown,Good,Yes,395722.0694852654,Maharashtra,Mumbai
+504,2496,5,4,3,2018,Downtown,Fair,No,375661.1939114694,Karnataka,Bengaluru
+1333,2704,1,1,2,2018,Rural,Fair,Yes,276315.6624568241,Tamil Nadu,Chennai
+677,3845,4,2,1,1992,Downtown,Fair,Yes,455996.04169980035,West Bengal,Kolkata
+75,4384,5,4,3,1930,Rural,Excellent,No,515013.7280627648,Telangana,Hyderabad
+1986,907,5,1,2,1932,Urban,Poor,No,246830.34690502496,Gujarat,Ahmedabad
+527,1896,1,2,1,1910,Urban,Good,No,236922.61349042095,Rajasthan,Jaipur
+564,2693,4,2,2,1937,Rural,Fair,Yes,394160.33632290707,Uttar Pradesh,Lucknow
+1497,3125,5,2,2,1961,Downtown,Poor,No,397243.69002346304,Madhya Pradesh,Bhopal
+1604,1864,4,1,1,2000,Rural,Poor,Yes,338780.6674931253,Punjab,Chandigarh
+1138,3269,4,4,1,1908,Rural,Poor,Yes,369478.24400954996,Uttarakhand,Dehradun
+1633,3730,4,2,2,1972,Rural,Fair,Yes,442364.2980992883,Maharashtra,Mumbai
+1551,3932,1,3,2,2021,Rural,Fair,Yes,398326.34412969154,Karnataka,Bengaluru
+1130,630,2,1,2,1939,Rural,Fair,No,153019.83735470066,Tamil Nadu,Chennai
+1575,1816,1,4,3,1930,Rural,Excellent,No,204826.0096035881,West Bengal,Kolkata
+1554,1075,5,1,1,1972,Urban,Poor,Yes,253837.5549928545,Telangana,Hyderabad
+1210,2414,5,2,2,2012,Rural,Fair,No,355259.9813068233,Gujarat,Ahmedabad
+1063,981,5,4,2,1918,Urban,Poor,No,238692.70486111578,Rajasthan,Jaipur
+330,4175,1,2,3,1904,Urban,Good,Yes,422992.0419404205,Uttar Pradesh,Lucknow
+634,4955,4,3,3,1959,Urban,Poor,No,550540.309719301,Madhya Pradesh,Bhopal
+272,627,5,2,2,1943,Downtown,Fair,Yes,208301.80809478692,Punjab,Chandigarh
+1890,3536,5,3,2,1953,Urban,Poor,Yes,472871.997508665,Uttarakhand,Dehradun
+109,3742,4,3,1,2018,Urban,Fair,No,452505.99041753216,Maharashtra,Mumbai
+1878,1548,5,3,2,1935,Rural,Fair,Yes,312097.2423767792,Karnataka,Bengaluru
+495,4768,4,4,2,1986,Downtown,Fair,No,541032.5768384723,Tamil Nadu,Chennai
+1556,3692,1,4,3,1934,Urban,Good,Yes,350780.09978155856,West Bengal,Kolkata
+145,2136,2,2,1,2013,Rural,Good,Yes,256676.37919606062,Telangana,Hyderabad
+1714,4154,2,3,1,1990,Urban,Poor,No,444265.87210246525,Gujarat,Ahmedabad
+1103,988,4,4,3,1901,Rural,Excellent,No,238247.4053086693,Rajasthan,Jaipur
+1346,4526,5,1,1,2009,Urban,Fair,Yes,533661.9681207171,Uttar Pradesh,Lucknow
+1930,3145,3,3,3,2021,Downtown,Poor,Yes,375946.54766617564,Madhya Pradesh,Bhopal
+1701,4110,5,1,1,1902,Downtown,Fair,No,526353.2979157685,Punjab,Chandigarh
+895,4712,3,3,2,1991,Urban,Excellent,No,487128.5722232834,Uttarakhand,Dehradun
+813,2470,3,4,2,1962,Downtown,Excellent,No,330541.9476234008,Maharashtra,Mumbai
+1705,4597,5,4,2,1965,Downtown,Excellent,No,535716.1469513221,Karnataka,Bengaluru
+747,4734,4,1,2,1960,Downtown,Good,Yes,521366.3759354556,Tamil Nadu,Chennai
+582,4646,2,4,3,1911,Urban,Excellent,No,490655.5370397438,West Bengal,Kolkata
+1500,3479,4,4,1,1999,Downtown,Poor,Yes,441828.3269797606,Telangana,Hyderabad
+999,4723,4,3,2,2002,Rural,Poor,No,541110.1927200127,Gujarat,Ahmedabad
+485,3641,1,4,1,1924,Rural,Excellent,Yes,389389.5761430866,Rajasthan,Jaipur
+1984,3956,4,4,1,1971,Urban,Poor,Yes,463900.0768326552,Uttar Pradesh,Lucknow
+1821,4943,2,3,2,1930,Downtown,Poor,Yes,506079.0594258993,Madhya Pradesh,Bhopal
+1099,1209,5,1,2,2007,Downtown,Fair,Yes,262514.6648681309,Punjab,Chandigarh
+470,1717,2,2,3,1963,Rural,Fair,Yes,240843.32704976885,Uttarakhand,Dehradun
+1446,2930,1,1,3,1932,Downtown,Excellent,Yes,303797.13891264633,Maharashtra,Mumbai
+693,2658,2,3,1,1972,Rural,Poor,Yes,311579.9192998544,Karnataka,Bengaluru
+1416,3348,3,4,1,2020,Urban,Excellent,Yes,401743.1405087383,Tamil Nadu,Chennai
+1647,1321,4,3,3,1983,Rural,Fair,No,236315.58633533056,West Bengal,Kolkata
+1688,1514,1,2,2,1999,Rural,Poor,No,234967.7455137092,Telangana,Hyderabad
+1844,3767,1,2,1,1901,Downtown,Fair,No,353239.65237000596,Gujarat,Ahmedabad
+933,3217,5,3,3,1943,Urban,Excellent,No,405076.2277442454,Rajasthan,Jaipur
+1515,1439,3,4,3,1982,Urban,Excellent,Yes,260282.21747000137,Uttar Pradesh,Lucknow
+355,4545,2,2,2,2012,Rural,Fair,No,476433.2538792587,Madhya Pradesh,Bhopal
+442,3002,1,1,3,1901,Rural,Good,No,324642.3963410431,Punjab,Chandigarh
+1477,3420,3,1,3,1998,Rural,Poor,No,408166.9101852856,Uttarakhand,Dehradun
+1404,713,4,3,2,1981,Downtown,Poor,No,203795.06454306172,Maharashtra,Mumbai
+761,2876,3,1,3,1978,Rural,Good,No,334134.9125702834,Karnataka,Bengaluru
+917,1188,5,2,3,1966,Rural,Good,Yes,268556.09116387455,Tamil Nadu,Chennai
+1954,3993,3,2,1,1967,Rural,Good,No,427896.7657697578,West Bengal,Kolkata
+467,1691,3,3,3,1948,Urban,Fair,No,276782.394668355,Telangana,Hyderabad
+1167,3124,4,2,3,1937,Rural,Fair,Yes,393978.85236995725,Gujarat,Ahmedabad
+116,2097,3,4,2,1931,Downtown,Fair,No,273250.0560641498,Rajasthan,Jaipur
+1973,1275,1,2,2,2014,Downtown,Good,No,167572.28316694012,Uttar Pradesh,Lucknow
+368,3751,4,3,2,1916,Urban,Poor,Yes,455338.6290855125,Madhya Pradesh,Bhopal
+394,3873,4,2,2,1909,Rural,Excellent,No,445565.5089439205,Punjab,Chandigarh
+1978,1355,5,4,2,1936,Downtown,Poor,No,263955.5920886714,Uttarakhand,Dehradun
+844,1293,4,4,3,1958,Urban,Poor,Yes,255313.74422983825,Maharashtra,Mumbai
+1522,2865,5,4,2,1951,Urban,Poor,Yes,406099.33142217447,Karnataka,Bengaluru
+998,2606,5,3,1,1971,Urban,Good,No,370341.1364925774,Tamil Nadu,Chennai
+572,884,2,2,2,1969,Downtown,Fair,Yes,158299.23388763354,West Bengal,Kolkata
+1001,4453,5,1,2,1946,Downtown,Excellent,No,532880.9987471527,Telangana,Hyderabad
+309,4269,3,4,3,1940,Urban,Good,No,434558.31317005353,Gujarat,Ahmedabad
+147,3499,3,2,3,1948,Downtown,Fair,No,373770.7245124689,Rajasthan,Jaipur
+829,3145,2,1,3,1978,Rural,Fair,Yes,334231.1155749513,Uttar Pradesh,Lucknow
+1861,633,1,4,2,1901,Urban,Fair,No,118371.05696576305,Madhya Pradesh,Bhopal
+243,3854,2,1,3,2017,Rural,Fair,Yes,411538.1513119601,Punjab,Chandigarh
+730,1145,1,3,3,1920,Rural,Fair,No,193107.12433899104,Uttarakhand,Dehradun
+1465,1249,1,1,2,1902,Urban,Fair,Yes,189073.1924640404,Maharashtra,Mumbai
+1588,2789,4,1,2,1974,Urban,Poor,Yes,366921.22940073145,Karnataka,Bengaluru
+24,2306,2,2,3,1976,Rural,Poor,Yes,281099.6758419462,Tamil Nadu,Chennai
+1345,4616,3,4,2,2011,Rural,Good,No,471229.4127072438,West Bengal,Kolkata
+392,2944,3,3,1,1984,Downtown,Excellent,No,357149.7372801522,Telangana,Hyderabad
+1191,2368,1,1,2,1976,Rural,Good,Yes,255666.82722159722,Gujarat,Ahmedabad
+1775,2414,5,4,2,1978,Urban,Fair,Yes,371574.3712067618,Rajasthan,Jaipur
+1611,4373,1,3,1,1925,Downtown,Poor,No,405295.38112895354,Uttar Pradesh,Lucknow
+39,2561,2,3,1,1964,Rural,Good,No,312266.93028482347,Madhya Pradesh,Bhopal
+755,2719,3,2,3,1900,Urban,Good,Yes,370174.77826005156,Punjab,Chandigarh
+292,2341,1,4,1,1974,Downtown,Fair,No,257104.79703086286,Uttarakhand,Dehradun
+1327,3856,4,3,3,1995,Urban,Poor,Yes,463514.23444197886,Maharashtra,Mumbai
+1313,784,5,3,3,2021,Rural,Poor,Yes,248522.87983422226,Karnataka,Bengaluru
+1545,4278,3,1,3,1980,Rural,Poor,Yes,456215.5905622833,Tamil Nadu,Chennai
+583,1216,3,2,1,1947,Rural,Poor,No,223761.84963620832,West Bengal,Kolkata
+1274,3219,5,1,2,1954,Urban,Good,Yes,429771.8480156359,Telangana,Hyderabad
+1470,2856,1,4,1,2012,Downtown,Excellent,No,302433.5219709766,Gujarat,Ahmedabad
+1526,513,4,3,3,1948,Rural,Fair,Yes,172579.80432289068,Rajasthan,Jaipur
+262,3670,5,2,2,1910,Downtown,Good,Yes,466090.2034851789,Uttar Pradesh,Lucknow
+1095,3208,5,4,2,1905,Rural,Fair,No,438599.965824909,Madhya Pradesh,Bhopal
+1280,2903,2,4,1,1916,Urban,Good,No,358262.8721559008,Punjab,Chandigarh
+711,2233,2,3,3,1987,Downtown,Excellent,No,294825.4165217041,Uttarakhand,Dehradun
+1703,605,2,2,3,1918,Rural,Good,Yes,188463.64915023113,Maharashtra,Mumbai
+1232,4635,4,4,2,1955,Downtown,Fair,No,502453.048742239,Karnataka,Bengaluru
+1234,1918,4,4,2,1903,Rural,Excellent,Yes,317886.4127344136,Tamil Nadu,Chennai
+113,3657,5,1,2,1980,Rural,Excellent,No,468226.840114767,West Bengal,Kolkata
+1770,3101,1,1,3,1949,Rural,Excellent,Yes,363876.05866435345,Telangana,Hyderabad
+63,1495,2,2,3,1999,Rural,Good,Yes,200434.03429289698,Gujarat,Ahmedabad
+1572,4453,3,1,3,1933,Downtown,Good,No,461445.5631563845,Rajasthan,Jaipur
+218,2700,4,1,3,2017,Downtown,Fair,No,351012.14709111955,Uttar Pradesh,Lucknow
+654,2796,5,2,2,1968,Rural,Good,No,353202.0855138039,Madhya Pradesh,Bhopal
+1750,2966,1,3,1,1997,Urban,Fair,Yes,298764.8995663848,Punjab,Chandigarh
+1222,2433,4,2,1,2017,Downtown,Fair,No,326457.346768926,Uttarakhand,Dehradun
+1427,605,3,2,1,1958,Downtown,Excellent,No,173407.87572952415,Maharashtra,Mumbai
+1659,4900,1,2,1,1992,Downtown,Fair,Yes,470835.11951554316,Karnataka,Bengaluru
+1656,4486,1,3,1,1916,Downtown,Poor,Yes,468403.4167843177,Tamil Nadu,Chennai
+1974,4526,3,1,3,1936,Rural,Fair,No,503088.47676372103,West Bengal,Kolkata
+708,1960,2,1,1,1967,Downtown,Poor,Yes,242261.92688675193,Telangana,Hyderabad
+249,516,2,1,1,1956,Urban,Fair,No,120311.70657303283,Gujarat,Ahmedabad
+1459,4095,1,2,3,1945,Downtown,Excellent,Yes,409438.38343013014,Rajasthan,Jaipur
+1679,3330,2,3,2,2018,Rural,Good,No,336995.3358595872,Uttar Pradesh,Lucknow
+576,2168,1,4,2,1996,Downtown,Excellent,No,282069.1753170871,Madhya Pradesh,Bhopal
+945,1446,2,4,3,2000,Urban,Excellent,No,236268.80241442574,Punjab,Chandigarh
+1982,4076,5,4,2,1985,Rural,Excellent,No,488696.48695790593,Uttarakhand,Dehradun
+502,2458,3,2,2,2022,Urban,Fair,No,284377.30941818247,Maharashtra,Mumbai
+1589,1739,3,4,2,1928,Rural,Excellent,No,288197.44748330826,Karnataka,Bengaluru
+1615,4219,3,3,2,1982,Rural,Poor,No,457229.2030949476,Tamil Nadu,Chennai
+479,2180,5,1,1,2003,Rural,Fair,Yes,371156.3262394692,West Bengal,Kolkata
+1623,1827,1,3,3,1967,Downtown,Fair,Yes,186271.44682411267,Telangana,Hyderabad
+717,4235,3,1,2,1960,Urban,Good,No,448812.49954092456,Gujarat,Ahmedabad
+901,3781,2,1,2,1934,Urban,Poor,No,399584.87399436365,Rajasthan,Jaipur
+1362,1484,5,3,1,1918,Rural,Poor,Yes,291659.6118752948,Uttar Pradesh,Lucknow
+808,2497,4,1,1,1929,Downtown,Good,No,337758.6905704151,Madhya Pradesh,Bhopal
+1401,4697,4,1,2,2020,Urban,Excellent,No,535216.99864695,Punjab,Chandigarh
+1835,3056,5,2,2,1949,Urban,Poor,No,395127.5914123481,Uttarakhand,Dehradun
+340,1012,2,2,1,1917,Urban,Fair,Yes,175112.41029957414,Maharashtra,Mumbai
+1105,3859,3,3,1,2010,Downtown,Good,No,433125.91263423796,Karnataka,Bengaluru
+952,554,3,3,1,1978,Downtown,Poor,Yes,176608.776681175,Tamil Nadu,Chennai
+1107,4490,3,2,3,1992,Rural,Poor,Yes,495432.2975617778,West Bengal,Kolkata
+1219,2530,4,3,3,1988,Urban,Excellent,No,326907.1581632426,Telangana,Hyderabad
+575,3256,1,4,2,1966,Urban,Good,No,301797.71658528753,Gujarat,Ahmedabad
+1896,4849,5,2,3,1964,Rural,Fair,No,585473.5364379702,Rajasthan,Jaipur
+1216,4755,5,1,3,1924,Urban,Fair,No,559046.2802395918,Uttar Pradesh,Lucknow
+426,2187,5,2,2,1904,Urban,Fair,No,331990.26926886896,Madhya Pradesh,Bhopal
+1921,4719,4,2,2,1993,Urban,Good,Yes,555543.0395104504,Punjab,Chandigarh
+545,4636,4,4,2,1986,Urban,Good,Yes,520193.49268585717,Uttarakhand,Dehradun
+510,1323,4,3,1,2022,Rural,Excellent,Yes,276425.9436812765,Maharashtra,Mumbai
+70,1576,3,4,2,1989,Rural,Good,Yes,249430.36962820217,Karnataka,Bengaluru
+1763,2077,5,1,1,1957,Rural,Good,No,379374.95849763975,Tamil Nadu,Chennai
+774,4929,2,4,3,1994,Rural,Fair,Yes,526426.8168488641,West Bengal,Kolkata
+431,2826,3,1,3,1967,Downtown,Fair,No,343100.7170304185,Telangana,Hyderabad
+1261,3739,4,3,2,2022,Downtown,Poor,No,465551.4190190871,Gujarat,Ahmedabad
+649,2893,2,1,3,1948,Downtown,Fair,Yes,341347.51899170293,Rajasthan,Jaipur
+142,1791,2,3,3,1992,Urban,Poor,No,267652.63115064695,Uttar Pradesh,Lucknow
+624,3093,3,4,2,1987,Downtown,Fair,No,350141.5307883979,Madhya Pradesh,Bhopal
+1015,3680,3,2,1,2013,Rural,Good,Yes,430121.0291999688,Punjab,Chandigarh
+132,4913,4,2,3,1928,Urban,Poor,No,561208.4897369917,Uttarakhand,Dehradun
+623,4664,3,3,3,1995,Rural,Fair,Yes,459945.2102715377,Maharashtra,Mumbai
+950,3951,2,1,1,1939,Rural,Poor,Yes,389414.8297466845,Karnataka,Bengaluru
+1842,2225,3,2,3,2004,Rural,Poor,No,259215.356444798,Tamil Nadu,Chennai
+370,2989,5,3,3,1961,Rural,Excellent,No,405731.86331110884,West Bengal,Kolkata
+1428,1386,2,1,3,1992,Urban,Poor,No,222230.84511591925,Telangana,Hyderabad
+409,3767,4,2,3,2001,Downtown,Poor,No,478407.1410419206,Gujarat,Ahmedabad
+1567,2425,1,3,2,1938,Downtown,Fair,No,267481.8956083955,Rajasthan,Jaipur
+1837,2101,1,2,1,1970,Rural,Good,Yes,272652.31091142586,Uttar Pradesh,Lucknow
+956,1332,1,4,2,1923,Rural,Poor,Yes,150957.97083570217,Madhya Pradesh,Bhopal
+1301,2584,1,3,1,1995,Urban,Good,Yes,244652.3512128969,Punjab,Chandigarh
+522,4012,2,1,3,1986,Downtown,Poor,Yes,416849.0460220676,Uttarakhand,Dehradun
+393,4607,1,4,3,2004,Urban,Fair,Yes,448241.30897878617,Maharashtra,Mumbai
+1919,1319,5,4,2,1946,Downtown,Good,No,276866.10503811814,Karnataka,Bengaluru
+1817,4219,1,1,1,2001,Downtown,Excellent,Yes,368171.1579992025,Tamil Nadu,Chennai
+166,697,3,4,3,2011,Downtown,Excellent,No,175977.59920974422,West Bengal,Kolkata
+448,3640,4,1,2,1998,Urban,Good,Yes,412110.60998990294,Telangana,Hyderabad
+400,3396,3,1,3,1951,Downtown,Fair,No,407073.45097660075,Gujarat,Ahmedabad
+1136,4087,4,4,3,1941,Downtown,Fair,No,481291.964921937,Rajasthan,Jaipur
+1147,2961,1,3,3,1983,Downtown,Fair,Yes,290082.4042734529,Uttar Pradesh,Lucknow
+659,4643,1,2,1,1989,Urban,Poor,No,433162.6616532661,Madhya Pradesh,Bhopal
+492,4102,3,3,1,1917,Rural,Excellent,Yes,428975.729562221,Punjab,Chandigarh
+238,1545,1,3,1,1933,Downtown,Fair,No,194346.41805453657,Uttarakhand,Dehradun
+1255,4430,3,2,3,1992,Urban,Poor,Yes,495502.8464100248,Maharashtra,Mumbai
+1070,1438,1,4,1,1973,Downtown,Good,No,167325.47907328914,Karnataka,Bengaluru
+959,2990,5,2,1,1943,Downtown,Poor,Yes,421280.9303103569,Tamil Nadu,Chennai
+291,1037,1,4,3,1904,Downtown,Good,Yes,144354.8476325512,West Bengal,Kolkata
+823,3097,5,1,2,1911,Rural,Fair,No,403902.5433547531,Telangana,Hyderabad
+710,2824,4,2,2,1973,Rural,Good,No,370779.3928009088,Gujarat,Ahmedabad
+193,762,1,2,2,2013,Urban,Fair,No,112255.15355161252,Rajasthan,Jaipur
+1462,1766,4,4,3,2017,Downtown,Fair,Yes,277207.01389305637,Uttar Pradesh,Lucknow
+1354,2355,2,4,2,1963,Rural,Fair,Yes,261442.44214822302,Madhya Pradesh,Bhopal
+892,1832,5,3,3,1912,Rural,Excellent,Yes,357854.5026583278,Punjab,Chandigarh
+1602,4970,4,4,3,1907,Urban,Excellent,Yes,545305.2710394346,Uttarakhand,Dehradun
+1378,3844,2,2,3,1916,Urban,Fair,No,390525.4898401483,Maharashtra,Mumbai
+1423,2209,1,4,1,1904,Downtown,Good,No,252999.59821468443,Karnataka,Bengaluru
+949,2401,4,1,3,1933,Urban,Poor,No,336833.4390061834,Tamil Nadu,Chennai
+275,1069,5,3,3,1958,Rural,Poor,No,253100.60800933553,West Bengal,Kolkata
+1218,1392,5,3,1,1948,Downtown,Excellent,No,295643.3340008685,Telangana,Hyderabad
+1638,2167,2,3,1,1905,Urban,Good,No,285510.1542009461,Gujarat,Ahmedabad
+968,3038,2,4,2,1984,Urban,Good,Yes,329429.97704778943,Rajasthan,Jaipur
+1311,2853,1,4,1,2000,Urban,Excellent,No,288723.6351871064,Uttar Pradesh,Lucknow
+1552,1780,1,2,3,1923,Downtown,Good,Yes,208898.96605696713,Madhya Pradesh,Bhopal
+14,1684,1,1,1,2004,Rural,Good,No,160681.57670528832,Punjab,Chandigarh
+204,2755,5,4,3,1902,Urban,Good,Yes,362096.17875602894,Uttarakhand,Dehradun
+1031,1109,5,2,2,2005,Downtown,Poor,No,288057.4853488905,Maharashtra,Mumbai
+386,4500,4,4,2,1947,Downtown,Fair,Yes,539899.3542700256,Karnataka,Bengaluru
+412,3646,2,1,1,2019,Downtown,Good,No,383699.2792088724,Tamil Nadu,Chennai
+1028,2574,3,4,3,2007,Rural,Poor,Yes,339451.13926111534,West Bengal,Kolkata
+399,3274,5,3,1,1978,Downtown,Excellent,No,440145.00309087074,Telangana,Hyderabad
+916,3932,5,4,2,1977,Downtown,Good,No,548137.6161691047,Gujarat,Ahmedabad
+819,1754,2,4,2,1999,Downtown,Excellent,No,259711.49822869155,Rajasthan,Jaipur
+1407,2948,3,4,1,1988,Rural,Poor,No,355281.6481703847,Uttar Pradesh,Lucknow
+756,2560,3,2,2,2000,Urban,Excellent,Yes,307689.19118799147,Madhya Pradesh,Bhopal
+692,1669,5,2,1,1917,Rural,Excellent,No,273391.07359484857,Punjab,Chandigarh
+170,3772,1,3,1,1976,Urban,Poor,Yes,377829.27271734446,Uttarakhand,Dehradun
+796,2843,5,1,1,1936,Urban,Excellent,No,384312.9850943139,Maharashtra,Mumbai
+454,3116,4,3,2,1945,Urban,Poor,Yes,367834.92580804654,Karnataka,Bengaluru
+443,2319,4,2,3,1936,Urban,Fair,No,319588.54231514945,Tamil Nadu,Chennai
+1340,4278,1,3,3,1932,Rural,Poor,No,392609.0399277121,West Bengal,Kolkata
+1948,3057,5,3,3,1952,Urban,Poor,Yes,450302.8327014513,Telangana,Hyderabad
+765,3458,2,2,2,1913,Urban,Fair,Yes,391272.795138989,Gujarat,Ahmedabad
+187,2459,2,2,3,1908,Downtown,Poor,No,293560.54717366764,Rajasthan,Jaipur
+1689,4931,3,4,1,1980,Downtown,Poor,No,546078.8827778006,Uttar Pradesh,Lucknow
+1863,4419,5,3,2,1919,Downtown,Excellent,No,527067.3661529523,Madhya Pradesh,Bhopal
+1014,2576,2,4,1,1952,Urban,Poor,Yes,285854.3159734347,Punjab,Chandigarh
+589,1173,5,3,3,1993,Urban,Fair,Yes,296302.4815453931,Uttarakhand,Dehradun
+902,974,1,2,2,2000,Urban,Fair,Yes,160698.20087369316,Maharashtra,Mumbai
+900,885,4,2,2,2014,Urban,Excellent,No,197055.07691347087,Karnataka,Bengaluru
+857,2765,2,2,2,1954,Urban,Excellent,Yes,314393.2264383278,Tamil Nadu,Chennai
+912,3213,4,4,1,1994,Downtown,Excellent,No,386527.63493230485,West Bengal,Kolkata
+223,3734,1,3,2,2007,Urban,Good,No,343064.00538071326,Telangana,Hyderabad
+1833,2023,5,1,2,1946,Urban,Good,No,352363.55095063284,Gujarat,Ahmedabad
+1737,4183,5,4,2,1992,Urban,Poor,Yes,544828.3328094026,Rajasthan,Jaipur
+785,1372,3,4,2,2008,Downtown,Excellent,No,203788.6485236172,Uttar Pradesh,Lucknow
+487,2310,1,1,2,1964,Rural,Excellent,No,268059.3847338114,Madhya Pradesh,Bhopal
+1826,785,3,1,2,1974,Downtown,Poor,Yes,171787.14861756345,Punjab,Chandigarh
+1741,1962,5,2,2,1948,Urban,Good,Yes,319217.49232470605,Uttarakhand,Dehradun
+1473,4165,4,4,1,1929,Urban,Poor,No,468352.1215152226,Maharashtra,Mumbai
+767,3990,5,2,2,1953,Downtown,Good,Yes,473920.1846064037,Karnataka,Bengaluru
+1929,2264,1,1,1,1955,Downtown,Excellent,Yes,254090.43255889654,Tamil Nadu,Chennai
+875,4033,4,1,2,1974,Downtown,Fair,No,453020.99767177925,West Bengal,Kolkata
+271,3894,1,4,1,1945,Downtown,Poor,Yes,388929.13651559677,Telangana,Hyderabad
+1671,3001,2,3,3,1903,Rural,Excellent,Yes,336075.23781101726,Gujarat,Ahmedabad
+1905,4476,3,2,1,1957,Rural,Fair,Yes,475301.0390626718,Rajasthan,Jaipur
+561,2324,1,4,3,1992,Rural,Poor,No,239768.72675916803,Uttar Pradesh,Lucknow
+126,2737,3,3,2,1999,Urban,Poor,Yes,329424.5733886333,Madhya Pradesh,Bhopal
+1131,3483,5,3,3,1931,Downtown,Good,Yes,465747.82451651513,Punjab,Chandigarh
+220,4933,4,3,2,1943,Urban,Poor,No,551658.3437524876,Uttarakhand,Dehradun
+571,1010,4,1,3,1925,Rural,Fair,Yes,208248.89510402898,Maharashtra,Mumbai
+876,3867,3,1,3,1938,Urban,Fair,Yes,433346.64610858454,Karnataka,Bengaluru
+646,3622,4,4,1,1973,Downtown,Excellent,No,451787.7424674358,Tamil Nadu,Chennai
+832,3412,5,2,1,2006,Downtown,Excellent,No,411571.8943775726,West Bengal,Kolkata
+1731,2160,3,1,2,1947,Urban,Excellent,No,305667.2038475987,Telangana,Hyderabad
+1762,4406,5,3,2,1926,Rural,Poor,No,511227.52482108306,Gujarat,Ahmedabad
+606,2650,5,4,3,2017,Downtown,Good,Yes,395411.9733718632,Rajasthan,Jaipur
+248,3620,4,3,2,1925,Rural,Fair,Yes,421334.8168691497,Uttar Pradesh,Lucknow
+537,1167,3,4,3,1993,Urban,Poor,Yes,179262.35798670963,Madhya Pradesh,Bhopal
+1734,3725,1,2,3,1911,Downtown,Fair,Yes,337449.1512423367,Punjab,Chandigarh
+1591,4565,3,4,2,1915,Downtown,Fair,No,488161.6989332276,Uttarakhand,Dehradun
+1940,4768,2,3,1,1908,Rural,Excellent,No,483634.4500344296,Maharashtra,Mumbai
+828,2743,1,1,1,1936,Downtown,Excellent,No,273353.66749791184,Karnataka,Bengaluru
+784,4350,5,3,1,1923,Downtown,Good,Yes,532771.8491755475,Tamil Nadu,Chennai
+1790,2928,1,3,3,1957,Rural,Fair,Yes,273009.5987546208,West Bengal,Kolkata
+1696,640,1,4,3,1983,Downtown,Poor,Yes,121878.40402705366,Telangana,Hyderabad
+1450,1399,1,2,2,1943,Downtown,Fair,No,159699.67600475086,Gujarat,Ahmedabad
+1017,4298,3,2,1,1903,Rural,Good,No,452803.27784395684,Rajasthan,Jaipur
+963,4175,3,1,2,1927,Downtown,Fair,Yes,456947.9734263283,Uttar Pradesh,Lucknow
+403,2125,5,4,3,1912,Rural,Excellent,No,324791.73269432096,Madhya Pradesh,Bhopal
+743,4915,1,4,2,1965,Downtown,Excellent,Yes,457508.88911540346,Punjab,Chandigarh
+1437,1939,1,1,1,1950,Urban,Excellent,No,247245.8561842888,Uttarakhand,Dehradun
+118,3193,3,1,3,1942,Rural,Poor,No,365902.162609537,Maharashtra,Mumbai
+1339,4030,5,4,1,1990,Urban,Excellent,Yes,511113.84224130283,Karnataka,Bengaluru
+1300,1745,5,2,3,1971,Urban,Poor,No,289005.8629068476,Tamil Nadu,Chennai
+788,3398,5,1,2,1990,Urban,Fair,No,454436.08355830563,West Bengal,Kolkata
+1081,2822,4,2,1,2011,Downtown,Good,No,401591.372413158,Telangana,Hyderabad
+1855,3225,5,2,3,1910,Downtown,Excellent,Yes,380567.1099974542,Gujarat,Ahmedabad
+1972,3349,1,3,3,1900,Urban,Excellent,Yes,323982.09489059047,Rajasthan,Jaipur
+1627,4533,1,3,2,1956,Rural,Excellent,No,446181.4425436108,Uttar Pradesh,Lucknow
+398,2582,2,4,2,1908,Urban,Good,No,299499.09227914014,Madhya Pradesh,Bhopal
+1894,2384,5,1,2,1937,Urban,Fair,Yes,370142.91746742616,Punjab,Chandigarh
+1645,4212,5,4,2,1976,Rural,Poor,No,496880.2962656836,Uttarakhand,Dehradun
+481,4812,3,2,1,1928,Downtown,Excellent,No,508691.795749458,Maharashtra,Mumbai
+772,735,5,3,3,1987,Downtown,Excellent,No,227686.4552921584,Karnataka,Bengaluru
+1888,1345,1,2,2,1976,Urban,Excellent,No,202955.64123319613,Tamil Nadu,Chennai
+1902,2450,3,4,2,1928,Urban,Poor,No,323088.41686602426,West Bengal,Kolkata
+1322,3494,2,4,1,1998,Urban,Good,Yes,383272.05324150407,Telangana,Hyderabad
+1728,3597,4,2,3,2012,Downtown,Fair,Yes,426522.46067755064,Gujarat,Ahmedabad
+620,3332,1,3,3,1938,Downtown,Good,Yes,328807.8755185501,Rajasthan,Jaipur
+519,4798,3,2,2,2019,Rural,Good,Yes,497188.83624360757,Uttar Pradesh,Lucknow
+456,2656,1,3,1,1934,Urban,Poor,No,292369.04284756596,Madhya Pradesh,Bhopal
+1975,2747,3,1,3,2002,Rural,Poor,No,333340.3103835947,Punjab,Chandigarh
+1773,4948,1,1,2,1987,Rural,Poor,Yes,473635.49713792827,Uttarakhand,Dehradun
+1140,992,5,2,2,1986,Rural,Poor,No,292868.01597290876,Maharashtra,Mumbai
+1858,3729,4,2,2,2019,Downtown,Poor,No,462742.4940686338,Karnataka,Bengaluru
+771,4527,2,4,1,1930,Downtown,Fair,Yes,452639.52935664315,Tamil Nadu,Chennai
+449,4991,1,2,3,1921,Downtown,Good,No,495304.2784432789,West Bengal,Kolkata
+437,4992,5,2,2,1928,Downtown,Good,No,563198.4925395689,Telangana,Hyderabad
+1553,2860,2,2,3,1910,Downtown,Fair,No,285037.5092964429,Gujarat,Ahmedabad
+1304,1765,4,1,2,1990,Rural,Poor,Yes,268038.2737816519,Rajasthan,Jaipur
+16,4617,1,4,2,1931,Downtown,Poor,No,403944.1615794829,Uttar Pradesh,Lucknow
+240,3936,4,4,1,1929,Urban,Good,No,454849.73031917383,Madhya Pradesh,Bhopal
+362,2979,5,4,2,1917,Rural,Excellent,Yes,410688.367583791,Punjab,Chandigarh
+1124,1966,4,3,2,1995,Rural,Poor,No,337808.74624550564,Uttarakhand,Dehradun
+1262,2639,1,4,2,1954,Downtown,Good,Yes,289658.54747528327,Maharashtra,Mumbai
+1096,3652,4,4,3,2006,Downtown,Fair,Yes,434777.9894238227,Karnataka,Bengaluru
+190,2302,3,2,3,1932,Rural,Poor,No,322748.1116236698,Tamil Nadu,Chennai
+739,1223,3,3,1,1987,Urban,Poor,No,175617.2938198423,West Bengal,Kolkata
+1179,4994,1,3,1,1932,Urban,Excellent,No,476232.29116217134,Telangana,Hyderabad
+1479,3471,4,4,1,1917,Downtown,Fair,Yes,440097.30387773935,Gujarat,Ahmedabad
+1441,2213,1,3,1,1949,Urban,Fair,No,219468.27508440317,Rajasthan,Jaipur
+752,509,2,2,2,2002,Urban,Poor,Yes,160595.08086413858,Uttar Pradesh,Lucknow
+192,3869,5,4,3,1929,Downtown,Good,No,488289.9281498883,Madhya Pradesh,Bhopal
+1759,1843,2,2,3,1942,Rural,Good,No,236134.24172198397,Punjab,Chandigarh
+1196,4821,1,1,1,1909,Downtown,Excellent,Yes,470335.6373221257,Uttarakhand,Dehradun
+312,1648,3,4,2,2000,Urban,Excellent,No,299253.85715608794,Maharashtra,Mumbai
+806,3554,1,1,2,1985,Urban,Good,Yes,359957.3251011699,Karnataka,Bengaluru
+560,1515,4,1,1,1984,Downtown,Fair,Yes,273164.4117260067,Tamil Nadu,Chennai
+445,3282,2,3,3,1979,Downtown,Fair,No,350372.7820091951,West Bengal,Kolkata
+414,1228,4,2,3,1969,Downtown,Excellent,Yes,228243.11261070415,Telangana,Hyderabad
+1211,2966,2,3,3,2004,Rural,Poor,No,350886.7163308849,Gujarat,Ahmedabad
+1592,4812,2,1,2,1938,Urban,Excellent,No,464838.3234818227,Rajasthan,Jaipur
+919,4201,4,4,2,1999,Urban,Good,No,484511.3247443878,Uttar Pradesh,Lucknow
+1860,4573,4,4,2,1982,Downtown,Good,No,503286.85106469766,Madhya Pradesh,Bhopal
+1292,1507,2,2,3,1978,Rural,Excellent,Yes,227139.59651492783,Punjab,Chandigarh
+1195,3901,1,4,1,1968,Urban,Excellent,Yes,390753.24210573896,Uttarakhand,Dehradun
+769,1618,2,3,2,1945,Urban,Poor,Yes,247190.79888515797,Maharashtra,Mumbai
+681,1213,5,3,2,1952,Rural,Good,No,258839.67202290506,Karnataka,Bengaluru
+1043,4276,5,2,3,1960,Rural,Excellent,No,508682.50129413255,Tamil Nadu,Chennai
+5,4926,1,4,2,1975,Downtown,Fair,Yes,446504.72568435385,West Bengal,Kolkata
+1022,2589,1,2,2,1924,Urban,Excellent,No,270234.13479847775,Telangana,Hyderabad
+630,2406,4,2,3,2013,Rural,Excellent,No,347026.00986089703,Gujarat,Ahmedabad
+440,4671,3,2,3,1976,Rural,Fair,No,510819.772332907,Rajasthan,Jaipur
+7,3671,1,1,2,1948,Rural,Poor,Yes,347236.6935164475,Uttar Pradesh,Lucknow
+1332,3344,1,3,3,1936,Urban,Good,Yes,356912.1184021132,Madhya Pradesh,Bhopal
+735,1346,4,2,3,1916,Urban,Excellent,Yes,281792.757176099,Punjab,Chandigarh
+1448,958,2,4,3,2022,Urban,Poor,Yes,181908.698064474,Uttarakhand,Dehradun
+49,534,1,3,2,1999,Downtown,Poor,Yes,152255.9162511613,Maharashtra,Mumbai
+728,4670,5,3,1,1934,Downtown,Excellent,No,530124.2160179286,Karnataka,Bengaluru
+339,1581,3,4,3,2006,Rural,Excellent,No,223586.90593377166,Tamil Nadu,Chennai
+188,2885,3,1,3,2005,Downtown,Excellent,Yes,317225.59502191446,West Bengal,Kolkata
+1600,3293,1,3,2,1970,Rural,Fair,Yes,365360.88622978365,Telangana,Hyderabad
+1582,4328,3,2,2,1914,Downtown,Excellent,No,481327.31312708114,Gujarat,Ahmedabad
+1264,862,1,3,3,2005,Downtown,Poor,No,139848.3065817909,Rajasthan,Jaipur
+1644,1888,3,3,1,1964,Downtown,Fair,No,278639.3725263964,Uttar Pradesh,Lucknow
+1443,1607,1,1,2,1974,Urban,Good,Yes,178050.21905403247,Madhya Pradesh,Bhopal
+1830,1512,5,2,2,1991,Rural,Fair,Yes,341875.0395923365,Punjab,Chandigarh
+781,3891,1,4,1,1935,Downtown,Good,Yes,385864.42363950453,Uttarakhand,Dehradun
+1967,4397,2,1,2,2010,Downtown,Poor,Yes,450947.89589209785,Maharashtra,Mumbai
+1086,829,4,1,2,1902,Downtown,Excellent,Yes,227835.33247797383,Karnataka,Bengaluru
+1856,1093,3,1,1,1964,Downtown,Poor,Yes,219060.18463473427,Tamil Nadu,Chennai
+521,1750,4,3,2,1985,Urban,Fair,Yes,291477.6804855826,West Bengal,Kolkata
+433,4452,2,3,3,1900,Urban,Good,Yes,437350.51089109376,Telangana,Hyderabad
+598,3537,5,3,1,1902,Rural,Fair,No,464389.3671427199,Gujarat,Ahmedabad
+438,1198,4,2,2,1981,Rural,Fair,Yes,280480.4899295007,Rajasthan,Jaipur
+1106,900,1,1,2,1901,Urban,Excellent,No,170908.40092309954,Uttar Pradesh,Lucknow
+1093,838,1,1,2,1975,Downtown,Fair,Yes,170903.73253278795,Madhya Pradesh,Bhopal
+1524,4976,5,3,2,1942,Downtown,Excellent,No,559855.6864713763,Punjab,Chandigarh
+577,1960,1,3,2,1900,Downtown,Excellent,Yes,209007.90359482839,Uttarakhand,Dehradun
+746,2417,4,2,2,1952,Rural,Good,Yes,337844.26159800705,Maharashtra,Mumbai
+804,2692,3,1,1,1953,Downtown,Excellent,No,338474.4982457739,Karnataka,Bengaluru
+1225,1790,3,1,3,1952,Downtown,Poor,Yes,287083.83036941895,Tamil Nadu,Chennai
+1838,2908,5,3,1,1914,Urban,Good,Yes,370790.7074057036,West Bengal,Kolkata
+1172,875,1,3,2,1991,Downtown,Good,No,172591.00638921227,Telangana,Hyderabad
+1641,4053,2,1,1,1991,Downtown,Poor,Yes,418079.8420284202,Gujarat,Ahmedabad
+1517,501,4,1,3,1905,Rural,Good,No,178542.3786010516,Rajasthan,Jaipur
+316,3160,2,3,2,1915,Urban,Poor,No,329557.9124947967,Uttar Pradesh,Lucknow
+1605,628,2,4,1,1965,Rural,Excellent,Yes,114142.86656268462,Madhya Pradesh,Bhopal
+1111,4353,5,2,3,2007,Rural,Poor,Yes,536703.4116792383,Punjab,Chandigarh
+1895,4638,4,4,3,2009,Urban,Poor,No,519506.3593437681,Uttarakhand,Dehradun
+944,3793,4,4,3,1987,Urban,Fair,No,424640.7820051789,Maharashtra,Mumbai
+89,4145,1,1,2,1998,Urban,Good,Yes,377698.42455872765,Karnataka,Bengaluru
+540,4685,5,4,2,2014,Downtown,Poor,Yes,540084.3060141974,Tamil Nadu,Chennai
+776,875,5,2,3,2005,Rural,Excellent,Yes,275380.43050578784,West Bengal,Kolkata
+1353,2480,4,2,1,2012,Downtown,Poor,No,340208.1729727279,Telangana,Hyderabad
+294,1024,2,2,2,1971,Urban,Excellent,Yes,148857.1409376379,Gujarat,Ahmedabad
+1562,2155,5,4,2,1912,Rural,Excellent,No,339485.1387182811,Rajasthan,Jaipur
+1367,1550,1,3,1,1937,Rural,Excellent,No,190545.5286050466,Uttar Pradesh,Lucknow
+718,3370,2,1,1,1993,Rural,Fair,Yes,312662.2671411686,Madhya Pradesh,Bhopal
+1380,2375,2,2,3,1972,Rural,Poor,Yes,285914.10266964376,Punjab,Chandigarh
+1925,2544,5,2,2,1931,Rural,Poor,Yes,370901.3093958264,Uttarakhand,Dehradun
+115,3229,4,2,1,2005,Downtown,Good,No,419244.12729626836,Maharashtra,Mumbai
+1810,3165,3,3,3,1972,Downtown,Fair,No,412179.1218989069,Karnataka,Bengaluru
+376,3339,1,4,1,2017,Rural,Poor,No,361651.3005909551,Tamil Nadu,Chennai
+1253,2091,1,3,1,1996,Rural,Poor,Yes,233902.22618890338,West Bengal,Kolkata
+905,1454,3,3,2,1917,Downtown,Excellent,Yes,216189.4818251666,Telangana,Hyderabad
+1811,2993,3,4,3,1930,Downtown,Poor,No,412907.19606499723,Gujarat,Ahmedabad
+849,3419,1,2,1,2019,Rural,Fair,No,346704.3686802898,Rajasthan,Jaipur
+1397,665,1,2,2,1997,Urban,Poor,No,125478.58583825892,Uttar Pradesh,Lucknow
+1871,4759,3,2,3,1919,Rural,Good,No,502237.49825779995,Madhya Pradesh,Bhopal
+1494,2212,1,2,3,1969,Rural,Excellent,No,252921.6952153571,Punjab,Chandigarh
+377,835,4,2,2,1905,Rural,Fair,Yes,210912.79176152116,Uttarakhand,Dehradun
+1697,1463,1,4,1,1928,Urban,Fair,Yes,177566.75986239527,Maharashtra,Mumbai
+501,1884,4,3,2,2005,Downtown,Excellent,Yes,286782.82117519213,Karnataka,Bengaluru
+838,3391,3,1,2,2015,Rural,Poor,Yes,392624.93459568004,Tamil Nadu,Chennai
+3,3592,2,2,3,1938,Downtown,Good,No,373491.5045773247,West Bengal,Kolkata
+9,630,2,2,1,1932,Rural,Poor,Yes,133143.08434645672,Telangana,Hyderabad
+429,3940,2,4,1,2020,Rural,Good,Yes,414328.6045538379,Gujarat,Ahmedabad
+909,4072,1,3,3,2012,Rural,Fair,No,392660.4556515829,Rajasthan,Jaipur
+896,1074,3,1,1,1977,Downtown,Excellent,Yes,237999.85977165378,Uttar Pradesh,Lucknow
+1642,1500,3,4,2,1910,Downtown,Fair,No,188980.60383213975,Madhya Pradesh,Bhopal
+1971,1214,2,4,1,1915,Rural,Poor,Yes,215950.13703844923,Punjab,Chandigarh
+300,4995,2,1,3,1925,Urban,Good,No,521521.70384995255,Uttarakhand,Dehradun
+1887,1042,4,3,2,1923,Downtown,Fair,No,188892.19535183703,Maharashtra,Mumbai
+35,3388,3,3,2,1988,Urban,Fair,Yes,386186.248118393,Karnataka,Bengaluru
+1471,2835,3,1,2,1943,Downtown,Poor,Yes,341371.1826800842,Tamil Nadu,Chennai
+1190,510,3,1,1,1992,Rural,Good,Yes,134649.7661056436,West Bengal,Kolkata
+1622,3624,4,4,3,1918,Rural,Poor,Yes,421363.6662481825,Telangana,Hyderabad
+861,1484,2,3,3,1973,Downtown,Good,No,193508.4830906834,Gujarat,Ahmedabad
+1203,2296,4,3,2,1919,Rural,Poor,No,365725.40886847244,Rajasthan,Jaipur
+1134,538,1,4,3,1907,Rural,Poor,Yes,133753.56786294922,Uttar Pradesh,Lucknow
+841,594,2,2,1,1949,Urban,Fair,Yes,169951.1018998832,Madhya Pradesh,Bhopal
+1166,4984,5,3,3,1945,Downtown,Poor,Yes,585153.4412808646,Punjab,Chandigarh
+357,3618,4,1,2,1945,Downtown,Fair,No,413858.9645756554,Uttarakhand,Dehradun
+33,4390,1,1,1,2020,Rural,Poor,No,412709.59467440454,Maharashtra,Mumbai
+461,4830,5,1,2,1994,Urban,Fair,Yes,568187.4912245583,Karnataka,Bengaluru
+768,4177,5,1,3,1970,Rural,Excellent,No,481717.44382216106,Tamil Nadu,Chennai
+60,661,4,4,2,1921,Downtown,Excellent,No,214139.96860344775,West Bengal,Kolkata
+139,3804,5,3,1,1941,Rural,Excellent,No,471513.4920368373,Telangana,Hyderabad
+482,1824,3,2,2,1966,Urban,Excellent,No,260423.58384900805,Gujarat,Ahmedabad
+71,4493,4,4,3,1984,Downtown,Good,Yes,520659.19936406985,Rajasthan,Jaipur
+1508,1029,2,4,3,1939,Rural,Poor,No,188205.2662297208,Uttar Pradesh,Lucknow
+296,4631,1,4,1,1986,Urban,Poor,No,435260.6766836184,Madhya Pradesh,Bhopal
+157,4010,4,2,1,2005,Rural,Excellent,No,490986.59606728493,Punjab,Chandigarh
+1357,1291,4,3,2,2013,Urban,Fair,Yes,228658.73344800205,Uttarakhand,Dehradun
+1958,4700,3,3,1,1917,Rural,Good,Yes,510318.7121388853,Maharashtra,Mumbai
+96,1528,2,3,1,1901,Rural,Poor,Yes,231102.02515936768,Karnataka,Bengaluru
+1072,4620,5,3,3,1967,Rural,Good,Yes,535409.0712137202,Tamil Nadu,Chennai
+1324,4109,2,2,3,2002,Urban,Fair,Yes,432242.66044484236,West Bengal,Kolkata
+56,3961,4,3,1,1949,Urban,Poor,Yes,438857.72847229394,Telangana,Hyderabad
+1699,4135,4,1,3,1907,Rural,Excellent,No,496280.540384138,Gujarat,Ahmedabad
+703,2862,4,4,3,2019,Urban,Fair,No,372261.95727114024,Rajasthan,Jaipur
+1511,3414,5,1,3,1981,Urban,Excellent,No,434665.5395896192,Uttar Pradesh,Lucknow
+1918,3792,2,1,1,1975,Urban,Good,Yes,421340.18451673776,Madhya Pradesh,Bhopal
+1628,1203,1,3,3,1936,Urban,Poor,No,154153.12618914482,Punjab,Chandigarh
+1094,4562,2,3,1,1953,Urban,Poor,No,433790.7740727288,Uttarakhand,Dehradun
+715,4017,4,3,2,1915,Downtown,Excellent,No,437227.4165295219,Maharashtra,Mumbai
+1529,629,5,1,3,2008,Urban,Fair,No,234440.1990269128,Karnataka,Bengaluru
+814,697,1,4,1,1910,Rural,Fair,Yes,102151.41295007433,Tamil Nadu,Chennai
+628,4323,4,3,3,1908,Downtown,Fair,No,527935.8836396873,West Bengal,Kolkata
+1117,1326,2,1,2,1996,Downtown,Excellent,No,161441.41184232556,Telangana,Hyderabad
+1715,2859,4,4,1,1912,Rural,Poor,No,409649.1273658008,Gujarat,Ahmedabad
+1495,1773,5,3,1,2022,Urban,Poor,Yes,318060.3493440524,Rajasthan,Jaipur
+1295,1747,3,3,2,1941,Downtown,Fair,Yes,259825.73776259215,Uttar Pradesh,Lucknow
+78,2527,3,3,1,1994,Rural,Good,Yes,313261.618263821,Madhya Pradesh,Bhopal
+1212,3237,5,1,2,1966,Rural,Poor,Yes,438942.7222870414,Punjab,Chandigarh
+122,2163,5,1,1,2005,Urban,Good,No,344287.30595150305,Uttarakhand,Dehradun
+897,1036,2,4,2,1971,Rural,Good,No,201946.03764033044,Maharashtra,Mumbai
+1853,1060,3,2,1,1941,Urban,Fair,No,209084.5529732408,Karnataka,Bengaluru
+270,3827,3,2,2,1951,Urban,Poor,Yes,431166.0352292376,Tamil Nadu,Chennai
+384,2927,2,3,3,1950,Rural,Fair,No,323887.7557557229,West Bengal,Kolkata
+938,3995,3,3,1,1969,Downtown,Excellent,Yes,440461.0875255786,Telangana,Hyderabad
+497,4209,1,4,2,2020,Downtown,Poor,Yes,414876.0353778412,Gujarat,Ahmedabad
+699,3239,4,1,3,1918,Urban,Poor,Yes,371916.63214686746,Rajasthan,Jaipur
+1114,4732,4,3,3,2000,Downtown,Poor,No,498596.29155788576,Uttar Pradesh,Lucknow
+1051,686,5,3,1,1947,Urban,Good,Yes,241745.2818804543,Madhya Pradesh,Bhopal
+254,3944,4,4,3,1959,Urban,Excellent,No,465937.30876255885,Punjab,Chandigarh
+1391,4360,1,4,2,1905,Downtown,Good,No,417120.3332729464,Uttarakhand,Dehradun
+143,4081,4,1,3,1903,Downtown,Poor,No,473848.67866130784,Maharashtra,Mumbai
+52,2085,2,3,2,1935,Urban,Poor,Yes,270751.63410723343,Karnataka,Bengaluru
+1252,3245,2,1,2,1955,Downtown,Excellent,Yes,345804.80639381276,Tamil Nadu,Chennai
+284,3037,1,4,3,2010,Rural,Poor,No,299393.9054919538,West Bengal,Kolkata
+1744,3679,5,1,3,1986,Rural,Excellent,Yes,470236.90510195366,Telangana,Hyderabad
+67,1516,4,4,3,1938,Rural,Excellent,Yes,248712.54444769936,Gujarat,Ahmedabad
+732,3428,3,3,2,1942,Downtown,Good,No,404405.05511428945,Rajasthan,Jaipur
+1442,3889,1,4,1,1933,Rural,Excellent,Yes,349068.3279152432,Uttar Pradesh,Lucknow
+1226,2140,5,2,1,1989,Urban,Fair,Yes,363783.11274651287,Madhya Pradesh,Bhopal
+1706,4516,2,2,2,1978,Urban,Excellent,No,467731.94964826084,Punjab,Chandigarh
+1029,1145,1,1,1,1994,Rural,Fair,Yes,168720.5946862775,Uttarakhand,Dehradun
+255,3065,5,2,1,1957,Urban,Poor,No,436853.81967891025,Maharashtra,Mumbai
+189,3419,5,1,1,1931,Rural,Poor,Yes,478829.48888925154,Karnataka,Bengaluru
+1329,538,2,4,2,1961,Downtown,Excellent,Yes,160327.4013003626,Tamil Nadu,Chennai
+107,2257,2,4,3,1906,Downtown,Excellent,Yes,240742.5153733671,West Bengal,Kolkata
+1636,4181,2,2,2,1964,Rural,Excellent,No,405888.460665286,Telangana,Hyderabad
+138,1995,4,1,3,2019,Urban,Poor,No,294103.6284460864,Gujarat,Ahmedabad
+727,967,4,4,1,1911,Urban,Fair,No,224881.82100421668,Rajasthan,Jaipur
+1137,1420,1,2,2,1997,Downtown,Excellent,No,195953.18040938245,Uttar Pradesh,Lucknow
+651,3093,1,4,1,1906,Urban,Poor,Yes,304925.12373693066,Madhya Pradesh,Bhopal
+233,4996,2,1,3,1943,Urban,Fair,Yes,500415.3352895416,Punjab,Chandigarh
+347,1080,2,2,2,1938,Downtown,Poor,No,168292.34135293355,Uttarakhand,Dehradun
+424,2071,2,4,2,2015,Downtown,Good,Yes,250449.64394016104,Maharashtra,Mumbai
+605,2622,2,1,1,2003,Rural,Good,No,278626.77806303557,Karnataka,Bengaluru
+1568,1119,3,3,3,1987,Urban,Excellent,No,193055.33507778193,Tamil Nadu,Chennai
+458,3794,3,1,2,2017,Urban,Excellent,Yes,398486.3078876733,West Bengal,Kolkata
+127,1806,2,1,3,1999,Downtown,Fair,No,221962.53494045333,Telangana,Hyderabad
+1041,3567,1,2,2,1906,Downtown,Poor,No,378432.83593215677,Gujarat,Ahmedabad
+991,1304,2,3,1,1990,Downtown,Poor,Yes,182332.02222336113,Rajasthan,Jaipur
+1617,4452,3,1,3,2006,Downtown,Poor,No,530807.6412967478,Uttar Pradesh,Lucknow
+1287,3617,5,4,3,1959,Urban,Fair,Yes,471226.3580176178,Madhya Pradesh,Bhopal
+135,2498,5,3,3,1924,Rural,Good,Yes,375536.7224738975,Punjab,Chandigarh
+588,749,1,3,3,1975,Rural,Good,Yes,114752.84439637573,Uttarakhand,Dehradun
+98,4993,3,4,3,1940,Downtown,Poor,Yes,535446.1975881798,Maharashtra,Mumbai
+1796,1732,1,2,3,2013,Urban,Poor,Yes,199047.24347524453,Karnataka,Bengaluru
+1820,736,2,3,2,1942,Rural,Good,Yes,158320.19629290723,Tamil Nadu,Chennai
+1822,2040,1,3,1,1969,Urban,Excellent,No,286401.6907653759,West Bengal,Kolkata
+417,1175,2,2,3,1963,Urban,Excellent,Yes,189078.802005507,Telangana,Hyderabad
+1698,872,4,1,1,1991,Downtown,Excellent,No,239745.4665257135,Gujarat,Ahmedabad
+1649,2124,5,3,2,1951,Rural,Excellent,No,327856.4714974823,Rajasthan,Jaipur
+1025,2122,5,1,2,1927,Urban,Fair,Yes,341060.23019006074,Uttar Pradesh,Lucknow
+985,2420,3,4,1,2005,Downtown,Fair,No,351016.0127127102,Madhya Pradesh,Bhopal
+535,857,4,2,2,1932,Downtown,Excellent,Yes,203020.65884424467,Punjab,Chandigarh
+332,1240,4,4,3,1978,Urban,Fair,Yes,282448.9711599386,Uttarakhand,Dehradun
+1678,3871,3,4,2,2000,Rural,Fair,No,445835.03870910953,Maharashtra,Mumbai
+371,2131,4,1,2,1928,Rural,Fair,Yes,306230.66448211466,Karnataka,Bengaluru
+420,3467,4,3,3,1966,Downtown,Poor,Yes,437008.1547811104,Tamil Nadu,Chennai
+1268,4786,5,2,3,2003,Rural,Good,No,574331.0889925346,West Bengal,Kolkata
+154,2207,4,3,2,2014,Downtown,Poor,Yes,335996.1992443439,Telangana,Hyderabad
+1635,1847,5,3,3,1996,Rural,Excellent,No,288355.50560219085,Gujarat,Ahmedabad
+906,1705,3,1,2,1996,Downtown,Good,Yes,243857.25648350263,Rajasthan,Jaipur
+350,4749,1,2,1,1947,Downtown,Fair,No,446969.62728896993,Uttar Pradesh,Lucknow
+1761,4229,1,4,3,1922,Downtown,Good,Yes,408831.33141799906,Madhya Pradesh,Bhopal
+1457,4609,1,2,3,1961,Rural,Good,No,453133.4419510136,Punjab,Chandigarh
+95,4340,1,1,3,1983,Urban,Poor,Yes,422754.02001866506,Uttarakhand,Dehradun
+124,2538,4,3,1,1948,Rural,Fair,Yes,323333.112825798,Maharashtra,Mumbai
+1161,2924,4,2,3,1907,Rural,Fair,Yes,388523.95702011924,Karnataka,Bengaluru
+41,2541,4,3,3,1950,Urban,Good,Yes,362491.7149056765,Tamil Nadu,Chennai
+1486,2477,3,3,2,1948,Urban,Excellent,Yes,331355.8089586208,West Bengal,Kolkata
+607,1829,5,3,3,1932,Urban,Fair,No,339935.6145110924,Telangana,Hyderabad
+604,4481,1,1,3,1987,Rural,Fair,Yes,447158.4430909781,Gujarat,Ahmedabad
+1039,4129,1,1,2,1966,Urban,Poor,No,411503.60158456874,Rajasthan,Jaipur
+964,3554,1,4,2,2003,Downtown,Good,Yes,354916.68577082705,Uttar Pradesh,Lucknow
+1558,3234,2,1,3,1967,Urban,Excellent,Yes,322500.7813296802,Madhya Pradesh,Bhopal
+1541,4896,4,1,2,1954,Downtown,Good,Yes,547272.3643826518,Punjab,Chandigarh
+1233,2060,3,1,3,2017,Urban,Poor,No,290953.7537432622,Uttarakhand,Dehradun
+1990,647,5,3,3,1919,Rural,Excellent,No,229191.57674390747,Maharashtra,Mumbai
+102,1984,5,4,1,1981,Downtown,Fair,Yes,305185.02848359384,Karnataka,Bengaluru
+114,3125,1,4,3,2021,Downtown,Poor,No,300378.86919183476,Tamil Nadu,Chennai
+1143,810,4,3,1,1970,Urban,Fair,No,232863.05706665808,West Bengal,Kolkata
+110,1559,1,3,2,1911,Downtown,Fair,Yes,195928.8969228669,Telangana,Hyderabad
+619,3972,3,2,1,2005,Urban,Excellent,Yes,453390.0139474525,Gujarat,Ahmedabad
+1667,4348,1,1,1,1901,Rural,Fair,Yes,420406.36752260925,Rajasthan,Jaipur
+911,4658,1,2,3,1942,Urban,Good,No,445235.1227899149,Uttar Pradesh,Lucknow
+1347,4679,3,3,3,1926,Downtown,Poor,Yes,515085.67611952,Madhya Pradesh,Bhopal
+1454,909,1,2,3,2021,Downtown,Excellent,Yes,134399.1054356525,Punjab,Chandigarh
+590,2665,5,1,2,1904,Rural,Poor,No,387122.4155388197,Uttarakhand,Dehradun
+1037,3528,4,2,2,1910,Urban,Poor,Yes,419994.49422589917,Maharashtra,Mumbai
+870,3677,1,3,2,1952,Downtown,Poor,Yes,357470.0754513537,Karnataka,Bengaluru
+1682,2890,3,1,3,1954,Urban,Fair,No,347016.55753062724,Tamil Nadu,Chennai
+1239,4472,3,2,3,1976,Downtown,Poor,Yes,484202.67543267424,West Bengal,Kolkata
+1742,2084,2,2,1,1984,Rural,Fair,No,254145.02756673045,Telangana,Hyderabad
+553,4985,1,2,1,2002,Downtown,Excellent,Yes,495915.1225114704,Gujarat,Ahmedabad
+1751,1487,4,2,3,1973,Downtown,Fair,Yes,248067.85395560993,Rajasthan,Jaipur
+1277,2074,2,2,2,1988,Downtown,Good,No,259182.5671167728,Uttar Pradesh,Lucknow
+1355,3556,5,4,2,2022,Downtown,Fair,Yes,447685.3788345165,Madhya Pradesh,Bhopal
+137,4243,1,4,3,1905,Downtown,Fair,No,440379.55768707464,Punjab,Chandigarh
+821,919,4,3,1,1986,Urban,Good,No,224451.09553023148,Uttarakhand,Dehradun
+1139,4611,3,1,1,2019,Rural,Excellent,No,511516.8907893727,Maharashtra,Mumbai
+925,3712,1,3,2,1922,Urban,Poor,No,339248.7925392606,Karnataka,Bengaluru
+1296,4402,2,3,3,1911,Urban,Poor,Yes,454501.0053173852,Tamil Nadu,Chennai
+1352,3733,5,2,3,2005,Urban,Fair,Yes,488432.61591246875,West Bengal,Kolkata
+80,1995,4,4,2,1948,Rural,Fair,Yes,308245.6797855085,Telangana,Hyderabad
+385,2068,4,4,3,1922,Downtown,Excellent,Yes,333749.60750130704,Gujarat,Ahmedabad
+1048,4350,5,3,1,1918,Downtown,Poor,No,509654.23099799256,Rajasthan,Jaipur
+1377,2753,4,2,2,2018,Rural,Good,Yes,395426.9488037116,Uttar Pradesh,Lucknow
+335,1650,4,4,3,1932,Rural,Fair,No,324977.962472385,Madhya Pradesh,Bhopal
+311,3761,3,2,3,1982,Downtown,Excellent,No,415623.22879120684,Punjab,Chandigarh
+201,2556,2,4,1,1925,Urban,Fair,No,292569.9495719846,Uttarakhand,Dehradun
+1870,1292,5,1,1,1921,Downtown,Poor,Yes,304427.689542354,Maharashtra,Mumbai
+513,2605,5,4,2,2015,Downtown,Excellent,No,411991.4429146142,Karnataka,Bengaluru
+1655,1416,4,2,2,1990,Urban,Excellent,No,249822.79945693462,Tamil Nadu,Chennai
+155,3277,2,4,3,2013,Urban,Good,No,350756.26365808287,West Bengal,Kolkata
+1596,1418,3,3,3,1920,Urban,Excellent,Yes,229804.30782278985,Telangana,Hyderabad
+351,2179,4,1,1,1964,Rural,Poor,Yes,294430.98977931443,Gujarat,Ahmedabad
+1926,2639,5,1,2,1925,Rural,Poor,Yes,364746.961070316,Rajasthan,Jaipur
+1630,3732,3,4,1,1991,Urban,Fair,Yes,400477.1846649586,Uttar Pradesh,Lucknow
+1221,2876,3,3,3,1961,Urban,Poor,Yes,336724.04869791743,Madhya Pradesh,Bhopal
+13,2933,4,3,2,1901,Downtown,Poor,No,380946.3022522644,Punjab,Chandigarh
+608,1858,1,2,2,1971,Rural,Poor,No,225324.29465073042,Uttarakhand,Dehradun
+1209,2096,2,2,2,1972,Urban,Good,Yes,295690.0098562815,Maharashtra,Mumbai
+954,3962,5,1,3,1985,Rural,Excellent,Yes,468992.91918522416,Karnataka,Bengaluru
+356,1743,2,1,1,1905,Urban,Excellent,No,256126.44796953167,Tamil Nadu,Chennai
+803,3212,5,3,3,1919,Downtown,Excellent,Yes,424680.2231154898,West Bengal,Kolkata
+536,3519,5,1,3,1938,Urban,Good,Yes,452530.72580695135,Telangana,Hyderabad
+1310,3691,2,1,2,1930,Rural,Fair,Yes,405776.38984333206,Gujarat,Ahmedabad
+1619,2363,2,1,3,2006,Downtown,Poor,No,263585.55956875405,Rajasthan,Jaipur
+751,2539,5,4,1,1969,Downtown,Good,No,382768.19492368103,Uttar Pradesh,Lucknow
+1730,2925,1,3,3,1998,Rural,Good,Yes,309329.04416426114,Madhya Pradesh,Bhopal
+1753,1149,4,3,2,2006,Rural,Excellent,Yes,248769.02528016298,Punjab,Chandigarh
+622,3531,3,3,2,1945,Rural,Fair,No,410263.37287815637,Uttarakhand,Dehradun
+971,4777,4,4,2,1985,Urban,Excellent,No,578266.0027982179,Maharashtra,Mumbai
+1848,905,1,3,1,1942,Urban,Excellent,No,131645.20031497368,Karnataka,Bengaluru
+199,3608,2,3,1,1929,Downtown,Fair,Yes,375020.06089996366,Tamil Nadu,Chennai
+679,3586,4,3,1,1929,Downtown,Excellent,No,421417.1894715047,West Bengal,Kolkata
+1483,1402,2,3,3,1958,Rural,Good,Yes,198050.4576167949,Telangana,Hyderabad
+993,4077,2,2,1,1904,Urban,Fair,No,410412.2574538696,Gujarat,Ahmedabad
+1852,4607,5,2,3,1993,Rural,Good,No,564340.330622151,Rajasthan,Jaipur
+982,1808,2,3,2,1991,Downtown,Good,No,270050.0849597971,Uttar Pradesh,Lucknow
+723,4824,1,3,3,1998,Downtown,Good,Yes,446505.07412501046,Madhya Pradesh,Bhopal
+247,1315,5,4,1,1902,Urban,Fair,No,260552.88853791542,Punjab,Chandigarh
+1928,2049,4,1,1,1900,Rural,Fair,No,320348.3111277281,Uttarakhand,Dehradun
+941,3557,2,3,3,1905,Downtown,Excellent,No,370515.5391143806,Maharashtra,Mumbai
+1609,4681,3,3,2,1969,Downtown,Excellent,Yes,509138.6363551102,Karnataka,Bengaluru
+1417,4544,3,2,3,1975,Downtown,Good,No,489578.460417026,Tamil Nadu,Chennai
+1520,4505,1,4,1,2011,Rural,Poor,Yes,402085.11770005536,West Bengal,Kolkata
+1372,4399,5,2,2,1989,Downtown,Good,Yes,554870.1040266012,Telangana,Hyderabad
+1989,2168,2,4,1,2010,Rural,Fair,No,306357.55346191046,Gujarat,Ahmedabad
+10,2185,3,3,1,2000,Downtown,Poor,No,284544.2261903123,Rajasthan,Jaipur
+1752,2046,4,2,2,1973,Urban,Excellent,No,302925.9688012803,Uttar Pradesh,Lucknow
+899,2622,5,4,1,2020,Downtown,Poor,Yes,387477.3078144981,Madhya Pradesh,Bhopal
+1564,2703,2,3,3,1982,Rural,Good,No,319929.1357997405,Punjab,Chandigarh
+494,4022,4,1,1,1937,Rural,Fair,No,481930.8854534566,Uttarakhand,Dehradun
+1056,4650,3,4,2,1944,Downtown,Poor,Yes,534204.090775327,Maharashtra,Mumbai
+989,4991,1,3,2,1971,Urban,Poor,Yes,467741.055450119,Karnataka,Bengaluru
+450,3438,4,2,1,1999,Urban,Fair,No,406074.0551092309,Tamil Nadu,Chennai
+1873,1633,2,2,1,1900,Urban,Fair,Yes,200053.61543970945,West Bengal,Kolkata
+1548,3139,5,2,3,1970,Downtown,Excellent,Yes,408501.39920116164,Telangana,Hyderabad
+1903,956,3,2,1,1936,Urban,Good,No,197817.46054252406,Gujarat,Ahmedabad
+360,3459,2,3,2,2005,Urban,Poor,Yes,409611.15727035573,Rajasthan,Jaipur
+1586,775,1,1,2,2002,Downtown,Fair,Yes,123647.77401927658,Uttar Pradesh,Lucknow
+512,633,3,1,1,2021,Urban,Good,Yes,177115.75903277798,Madhya Pradesh,Bhopal
+1547,769,4,1,2,1993,Downtown,Poor,Yes,208191.54207854497,Punjab,Chandigarh
+1265,3104,3,3,2,1961,Urban,Excellent,Yes,394087.86546896165,Uttarakhand,Dehradun
+195,1516,5,3,1,1928,Rural,Good,No,343818.64851747244,Maharashtra,Mumbai
+706,3948,1,3,3,1983,Urban,Good,No,377222.6245415936,Karnataka,Bengaluru
+1530,4314,1,3,3,1909,Rural,Poor,Yes,407331.21114963555,Tamil Nadu,Chennai
+1373,4973,1,1,1,1930,Rural,Poor,No,490723.2175413814,West Bengal,Kolkata
+1510,3458,1,4,2,1966,Rural,Poor,Yes,362277.8297925262,Telangana,Hyderabad
+1900,4350,3,3,2,1934,Urban,Poor,No,506934.1465147207,Gujarat,Ahmedabad
+596,735,1,1,1,1946,Downtown,Excellent,Yes,142478.5637065193,Rajasthan,Jaipur
+713,3063,3,1,1,1910,Rural,Poor,Yes,359854.1581842588,Uttar Pradesh,Lucknow
+1969,2779,3,3,2,1979,Urban,Poor,No,356133.0966138462,Madhya Pradesh,Bhopal
+315,2991,4,4,3,2010,Rural,Fair,No,408454.07161165815,Punjab,Chandigarh
+1640,4614,3,4,1,1909,Downtown,Poor,Yes,507529.6436239473,Uttarakhand,Dehradun
+319,504,5,2,1,1925,Downtown,Fair,No,222465.48062214596,Maharashtra,Mumbai
+1719,4457,2,1,1,1976,Downtown,Excellent,Yes,474893.49379178305,Karnataka,Bengaluru
+1743,982,3,4,1,1956,Urban,Fair,No,223945.91180891346,Tamil Nadu,Chennai
+295,3450,2,4,3,1982,Rural,Poor,Yes,400643.17982075055,West Bengal,Kolkata
+1194,1889,4,1,1,1984,Downtown,Good,Yes,311094.19775179285,Telangana,Hyderabad
+106,4691,2,3,3,1928,Rural,Excellent,Yes,468937.6383936629,Gujarat,Ahmedabad
+205,1654,5,2,2,1945,Urban,Poor,No,307254.2737286665,Rajasthan,Jaipur
+1101,4142,2,2,2,2022,Downtown,Excellent,Yes,452490.1793301671,Uttar Pradesh,Lucknow
+1398,2067,2,4,3,2001,Rural,Poor,Yes,246021.28658025528,Madhya Pradesh,Bhopal
+1709,3916,3,4,1,1973,Rural,Fair,Yes,442653.466177458,Punjab,Chandigarh
+904,4100,1,1,1,1957,Downtown,Excellent,Yes,392133.22375345277,Uttarakhand,Dehradun
+1555,1807,2,1,1,1911,Rural,Fair,No,242134.89645869634,Maharashtra,Mumbai
+748,2526,1,2,1,1937,Urban,Excellent,Yes,299649.037252146,Karnataka,Bengaluru
+1241,536,1,4,1,1930,Urban,Fair,Yes,118701.98136039807,Tamil Nadu,Chennai
+185,988,5,1,2,1930,Rural,Poor,Yes,251968.73096312297,West Bengal,Kolkata
+1496,4311,3,3,3,2004,Urban,Fair,Yes,439682.8771804016,Telangana,Hyderabad
+1110,890,4,1,2,1997,Downtown,Good,Yes,233125.0713205444,Gujarat,Ahmedabad
+559,1297,3,3,2,1944,Urban,Poor,No,238669.6836228215,Rajasthan,Jaipur
+508,2031,1,3,3,1944,Rural,Excellent,Yes,277745.0944661092,Uttar Pradesh,Lucknow
+685,625,2,3,3,1981,Downtown,Good,Yes,140844.43530093998,Madhya Pradesh,Bhopal
+1613,3985,5,3,3,2020,Urban,Good,Yes,495183.00655327877,Punjab,Chandigarh
+682,1562,2,4,1,2002,Rural,Good,No,226947.6736742151,Uttarakhand,Dehradun
+1784,4755,1,1,2,1998,Downtown,Poor,No,483949.0655952695,Maharashtra,Mumbai
+480,1010,3,3,2,1925,Urban,Excellent,Yes,200894.08935226095,Karnataka,Bengaluru
+533,3283,5,3,1,1987,Urban,Fair,No,440220.43051540677,Tamil Nadu,Chennai
+1,1360,5,4,3,1970,Downtown,Excellent,No,292957.9301943308,West Bengal,Kolkata
+499,955,4,3,3,1920,Downtown,Poor,No,227132.18246312716,Telangana,Hyderabad
+1205,1226,3,1,1,2010,Rural,Excellent,No,211151.32770898944,Gujarat,Ahmedabad
+1116,2021,4,1,1,1959,Downtown,Excellent,Yes,312561.79985796614,Rajasthan,Jaipur
+1891,2994,2,2,1,1925,Urban,Excellent,Yes,357992.63499719545,Uttar Pradesh,Lucknow
+641,1166,5,1,1,1962,Rural,Fair,Yes,244749.6940117788,Madhya Pradesh,Bhopal
+1720,2298,2,3,3,1926,Urban,Fair,No,283499.39348293754,Punjab,Chandigarh
+73,992,3,3,3,1979,Rural,Good,Yes,187357.58370121653,Uttarakhand,Dehradun
+860,3781,4,1,2,2017,Urban,Fair,Yes,473380.93257849687,Maharashtra,Mumbai
+1754,1468,3,3,1,2023,Downtown,Excellent,No,208976.26190432452,Karnataka,Bengaluru
+1569,1774,1,2,2,1979,Rural,Excellent,No,202741.56305456822,Tamil Nadu,Chennai
+1412,1213,2,2,1,1930,Rural,Excellent,No,201584.23750129042,West Bengal,Kolkata
+241,1062,3,3,1,1970,Downtown,Good,No,238270.4805846868,Telangana,Hyderabad
+609,2982,2,4,2,1987,Downtown,Fair,Yes,334244.9947785402,Gujarat,Ahmedabad
+163,4889,2,2,1,1957,Rural,Good,Yes,477016.00946613605,Rajasthan,Jaipur
+1474,2489,4,1,2,1916,Rural,Poor,No,383743.1413888118,Uttar Pradesh,Lucknow
+712,2105,3,4,2,1984,Rural,Poor,No,261439.72199167512,Madhya Pradesh,Bhopal
+1155,4913,5,1,2,1923,Urban,Good,Yes,521063.88086759835,Punjab,Chandigarh
+961,3810,3,4,1,1956,Urban,Good,No,435600.28900106665,Uttarakhand,Dehradun
+120,1863,2,4,1,1968,Downtown,Fair,No,235998.91551294777,Maharashtra,Mumbai
+1932,4981,3,4,3,1901,Downtown,Good,Yes,500055.34365738573,Karnataka,Bengaluru
+253,1569,3,1,1,1942,Downtown,Good,No,261687.12894598706,Tamil Nadu,Chennai
+1180,1463,2,2,1,1946,Urban,Fair,Yes,218916.01427542398,West Bengal,Kolkata
+1375,1026,3,2,3,1959,Rural,Good,No,192798.42738526544,Telangana,Hyderabad
+1061,4420,5,4,2,2007,Downtown,Good,Yes,499993.9120265821,Gujarat,Ahmedabad
+565,723,4,4,3,1919,Urban,Good,No,222289.1465656029,Rajasthan,Jaipur
+352,4006,5,4,3,2012,Downtown,Good,No,505484.0235591732,Uttar Pradesh,Lucknow
+93,2070,2,2,2,2010,Downtown,Poor,No,260616.48272441234,Madhya Pradesh,Bhopal
+1087,4140,5,1,1,2000,Downtown,Excellent,No,540132.7399209533,Punjab,Chandigarh
+174,3011,1,4,2,1996,Urban,Fair,No,291478.30467347696,Uttarakhand,Dehradun
+415,3848,1,2,1,2018,Rural,Excellent,No,349329.4965815052,Maharashtra,Mumbai
+1386,1083,5,4,2,1988,Urban,Poor,No,244801.83860237512,Karnataka,Bengaluru
+446,4077,2,4,3,1947,Urban,Good,No,422248.27967289,Tamil Nadu,Chennai
+1950,4335,4,2,2,1999,Downtown,Good,No,498666.78898645384,West Bengal,Kolkata
+1502,4890,3,1,1,1916,Downtown,Fair,Yes,508375.2788428734,Telangana,Hyderabad
+676,2031,1,4,2,1913,Urban,Excellent,No,241521.10793028594,Gujarat,Ahmedabad
+469,3181,5,3,3,1931,Urban,Excellent,Yes,401449.21151619114,Rajasthan,Jaipur
+1122,3542,4,2,1,2008,Downtown,Fair,Yes,459235.2920814652,Uttar Pradesh,Lucknow
+503,3572,4,4,1,1969,Downtown,Excellent,Yes,431116.9764321486,Madhya Pradesh,Bhopal
+671,3787,5,4,2,1922,Rural,Fair,Yes,497305.9166317626,Punjab,Chandigarh
+1866,4725,3,3,2,1920,Rural,Fair,No,506854.5069275541,Uttarakhand,Dehradun
+465,3801,1,4,2,1979,Downtown,Excellent,No,385215.0643830757,Maharashtra,Mumbai
+574,2500,3,1,3,2020,Urban,Poor,Yes,333395.3456046441,Karnataka,Bengaluru
+232,1718,4,4,3,2005,Rural,Excellent,No,293394.1712003463,Tamil Nadu,Chennai
+36,2935,4,4,2,1979,Urban,Poor,No,394654.4551973509,West Bengal,Kolkata
+695,1993,5,4,3,1931,Downtown,Good,Yes,358023.05060264864,Telangana,Hyderabad
+269,1684,3,2,3,2003,Downtown,Good,No,260650.4233940294,Gujarat,Ahmedabad
+1331,1386,3,3,1,1938,Downtown,Good,Yes,247060.07515177026,Rajasthan,Jaipur
+1825,2868,2,1,2,1962,Downtown,Excellent,Yes,324645.2861142555,Uttar Pradesh,Lucknow
+1269,4238,4,4,3,1972,Urban,Fair,No,514842.3443089895,Madhya Pradesh,Bhopal
+1824,863,2,4,2,1955,Rural,Fair,Yes,152512.1539588146,Punjab,Chandigarh
+237,3946,4,3,2,1988,Urban,Fair,No,498698.8086582163,Uttarakhand,Dehradun
+235,3235,1,1,2,1955,Urban,Poor,Yes,329996.84098711313,Maharashtra,Mumbai
+879,2292,3,4,3,1909,Rural,Excellent,No,276744.49795763905,Karnataka,Bengaluru
+242,2985,4,3,3,1969,Urban,Poor,Yes,388362.08829821576,Tamil Nadu,Chennai
+698,3160,1,2,3,1916,Rural,Poor,No,311178.96685050236,West Bengal,Kolkata
+1637,3673,1,3,1,2014,Downtown,Fair,No,382652.8709797745,Telangana,Hyderabad
+1920,919,1,2,3,1941,Downtown,Excellent,Yes,132467.52041395218,Gujarat,Ahmedabad
+1228,1487,3,4,3,2002,Urban,Poor,No,232036.3313357044,Rajasthan,Jaipur
+666,1138,1,2,3,1948,Urban,Excellent,Yes,125249.18538108938,Uttar Pradesh,Lucknow
+1281,3829,4,3,3,1901,Rural,Good,No,444273.87361501844,Madhya Pradesh,Bhopal
+97,1002,5,1,3,2014,Rural,Fair,Yes,203682.41346742088,Punjab,Chandigarh
+1687,906,2,2,2,1955,Urban,Excellent,Yes,137801.94353028553,Uttarakhand,Dehradun
+793,1565,1,3,2,1981,Rural,Good,No,212408.29312288595,Maharashtra,Mumbai
+1008,1804,1,2,1,1991,Urban,Good,Yes,232036.00317301665,Karnataka,Bengaluru
+887,3572,3,4,1,2015,Rural,Poor,Yes,416269.1512356993,Tamil Nadu,Chennai
+1135,4459,2,2,2,1956,Downtown,Good,Yes,434380.4771374157,West Bengal,Kolkata
+331,1869,3,2,3,1921,Downtown,Excellent,No,270565.7728771604,Telangana,Hyderabad
+984,1013,2,2,3,1907,Rural,Fair,No,177967.94921818865,Gujarat,Ahmedabad
+299,4347,5,4,1,1995,Urban,Excellent,No,496592.70621614915,Rajasthan,Jaipur
+229,1800,2,1,2,2009,Rural,Excellent,No,271067.966035343,Uttar Pradesh,Lucknow
+183,2234,1,2,1,2017,Rural,Fair,No,268267.24581151345,Madhya Pradesh,Bhopal
+1491,1887,1,1,1,1909,Rural,Excellent,Yes,218540.71652340674,Punjab,Chandigarh
+310,1074,2,3,2,1932,Downtown,Poor,No,183457.71677989062,Uttarakhand,Dehradun
+1832,3007,1,3,3,1937,Downtown,Fair,No,316727.65615895105,Maharashtra,Mumbai
+1256,2496,5,1,1,1963,Downtown,Good,No,330845.3026315142,Karnataka,Bengaluru
+259,801,1,2,2,2012,Rural,Poor,Yes,131136.45234958807,Tamil Nadu,Chennai
+51,2455,1,3,3,1967,Downtown,Poor,No,254760.31504004402,West Bengal,Kolkata
+931,3889,4,3,2,1927,Urban,Fair,Yes,438087.5998021017,Telangana,Hyderabad
+141,2353,5,3,1,1978,Downtown,Fair,No,354617.9941422809,Gujarat,Ahmedabad
+48,4514,2,1,3,1952,Rural,Poor,No,494073.73053699045,Rajasthan,Jaipur
+763,3324,2,4,2,1925,Urban,Excellent,No,375736.8572253402,Uttar Pradesh,Lucknow
+1358,2309,2,2,3,1919,Downtown,Poor,Yes,270296.4202043441,Madhya Pradesh,Bhopal
+1776,2972,3,1,3,1989,Urban,Fair,Yes,371211.6556271232,Punjab,Chandigarh
